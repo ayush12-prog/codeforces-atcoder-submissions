@@ -79,6 +79,8 @@
   "Julia (1.4.0)": "jl",
   "Kotlin": "kt",
   "Kotlin (1.3.71)": "kt",
+  "Kotlin (Kotlin/JVM 2.2.10)": "kt",
+  "Kotlin 2.2": "kt",
   "Lua (Lua 5.3.5)": "lua",
   "Lua (LuaJIT 2.1.0)": "lua",
   "MS C++": "cpp",
