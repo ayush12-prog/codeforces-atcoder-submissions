@@ -788,16 +788,16 @@
 </tr>
 <tr>
 <td align="center">109</td>
-<td><a href="https://codeforces.com/contest/2158/problem/A"><b>A</b> - Suspension</a></td>
-<td align="center"><a href="https://codeforces.com/contest/2158/submission/383853377" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>constructive algorithms</code> <code>greedy</code> <code>math</code> <code>*800</code></td>
+<td><a href="https://codeforces.com/contest/2160/problem/A"><b>A</b> - MEX Partition</a></td>
+<td align="center"><a href="https://codeforces.com/contest/2160/submission/383853270" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
+<td><code>math</code> <code>*800</code></td>
 <td align="center"><sub>Jul/22/2026 22:36</sub></td>
 </tr>
 <tr>
 <td align="center">110</td>
-<td><a href="https://codeforces.com/contest/2160/problem/A"><b>A</b> - MEX Partition</a></td>
-<td align="center"><a href="https://codeforces.com/contest/2160/submission/383853270" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>math</code> <code>*800</code></td>
+<td><a href="https://codeforces.com/contest/2158/problem/A"><b>A</b> - Suspension</a></td>
+<td align="center"><a href="https://codeforces.com/contest/2158/submission/383853377" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
+<td><code>constructive algorithms</code> <code>greedy</code> <code>math</code> <code>*800</code></td>
 <td align="center"><sub>Jul/22/2026 22:36</sub></td>
 </tr>
 <tr>
@@ -844,16 +844,16 @@
 </tr>
 <tr>
 <td align="center">117</td>
-<td><a href="https://codeforces.com/contest/2167/problem/B"><b>B</b> - Your Name</a></td>
-<td align="center"><a href="https://codeforces.com/contest/2167/submission/383717022" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>sortings</code> <code>strings</code> <code>*800</code></td>
+<td><a href="https://codeforces.com/contest/2167/problem/C"><b>C</b> - Isamatdin and His Magic Wand!</a></td>
+<td align="center"><a href="https://codeforces.com/contest/2167/submission/383716813" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
+<td><code>constructive algorithms</code> <code>greedy</code> <code>implementation</code> <code>sortings</code> <code>*800</code></td>
 <td align="center"><sub>Jul/21/2026 20:16</sub></td>
 </tr>
 <tr>
 <td align="center">118</td>
-<td><a href="https://codeforces.com/contest/2167/problem/C"><b>C</b> - Isamatdin and His Magic Wand!</a></td>
-<td align="center"><a href="https://codeforces.com/contest/2167/submission/383716813" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>constructive algorithms</code> <code>greedy</code> <code>implementation</code> <code>sortings</code> <code>*800</code></td>
+<td><a href="https://codeforces.com/contest/2167/problem/B"><b>B</b> - Your Name</a></td>
+<td align="center"><a href="https://codeforces.com/contest/2167/submission/383717022" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
+<td><code>sortings</code> <code>strings</code> <code>*800</code></td>
 <td align="center"><sub>Jul/21/2026 20:16</sub></td>
 </tr>
 <tr>
@@ -1537,6 +1537,6 @@
 
 <div align="center">
 
-*Last Updated: August 08, 2026 at 00:26 BDT (UTC+6)*
+*Last Updated: August 08, 2026 at 00:33 BDT (UTC+6)*
 
 </div>
