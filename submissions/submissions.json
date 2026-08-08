@@ -4326,7 +4326,7 @@
     "timestamp": "Aug/07/2026 18:54"
   },
   "CF386085856": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2253,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4336,7 +4336,11 @@
     "problem_url": "https://codeforces.com/contest/2253/problem/A",
     "submission_id": "CF386085856",
     "submission_url": "https://codeforces.com/contest/2253/submission/386085856",
-    "tags": [],
+    "tags": [
+      "greedy",
+      "math",
+      "number theory"
+    ],
     "timestamp": "Aug/07/2026 20:48"
   },
   "CF386092342": {
@@ -4358,7 +4362,7 @@
     "timestamp": "Aug/07/2026 21:00"
   },
   "CF386100443": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2253,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4369,12 +4373,14 @@
     "submission_id": "CF386100443",
     "submission_url": "https://codeforces.com/contest/2253/submission/386100443",
     "tags": [
-      "greedy"
+      "greedy",
+      "sortings",
+      "two pointers"
     ],
     "timestamp": "Aug/07/2026 21:17"
   },
   "CF386110654": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2253,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4385,10 +4391,143 @@
     "submission_id": "CF386110654",
     "submission_url": "https://codeforces.com/contest/2253/submission/386110654",
     "tags": [
+      "binary search",
+      "brute force",
       "geometry",
       "greedy",
+      "implementation",
       "math"
     ],
     "timestamp": "Aug/07/2026 21:42"
+  },
+  "CF386218625": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2200,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Specialty String",
+    "problem_url": "https://codeforces.com/contest/2200/problem/C",
+    "submission_id": "CF386218625",
+    "submission_url": "https://codeforces.com/contest/2200/submission/386218625",
+    "tags": [
+      "brute force",
+      "greedy",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Aug/08/2026 19:11"
+  },
+  "CF386219016": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2200,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Portal",
+    "problem_url": "https://codeforces.com/contest/2200/problem/D",
+    "submission_id": "CF386219016",
+    "submission_url": "https://codeforces.com/contest/2200/submission/386219016",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Aug/08/2026 19:14"
+  },
+  "CF386219786": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2200,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Divisive Battle",
+    "problem_url": "https://codeforces.com/contest/2200/problem/E",
+    "submission_id": "CF386219786",
+    "submission_url": "https://codeforces.com/contest/2200/submission/386219786",
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Aug/08/2026 19:21"
+  },
+  "CF386220088": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2200,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Mooclear Reactor 2",
+    "problem_url": "https://codeforces.com/contest/2200/problem/F",
+    "submission_id": "CF386220088",
+    "submission_url": "https://codeforces.com/contest/2200/submission/386220088",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Aug/08/2026 19:24"
+  },
+  "CF386220512": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2149,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "MEX rose",
+    "problem_url": "https://codeforces.com/contest/2149/problem/C",
+    "submission_id": "CF386220512",
+    "submission_url": "https://codeforces.com/contest/2149/submission/386220512",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Aug/08/2026 19:28"
+  },
+  "CF386220771": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2149,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "A and B",
+    "problem_url": "https://codeforces.com/contest/2149/problem/D",
+    "submission_id": "CF386220771",
+    "submission_url": "https://codeforces.com/contest/2149/submission/386220771",
+    "tags": [
+      "strings",
+      "*1200"
+    ],
+    "timestamp": "Aug/08/2026 19:30"
+  },
+  "CF386221056": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2149,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Hidden Knowledge of the Ancients",
+    "problem_url": "https://codeforces.com/contest/2149/problem/E",
+    "submission_id": "CF386221056",
+    "submission_url": "https://codeforces.com/contest/2149/submission/386221056",
+    "tags": [
+      "data structures",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Aug/08/2026 19:33"
   }
 }
