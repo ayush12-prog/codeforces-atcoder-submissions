@@ -434,6 +434,21 @@
     ],
     "timestamp": "Aug/01/2026 19:15"
   },
+  "AC78174097": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "practice2",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/practice2/tasks/practice2_a",
+    "submission_id": "AC78174097",
+    "submission_url": "https://atcoder.jp/contests/practice2/submissions/78174097",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Aug/08/2026 00:31"
+  },
   "CF379519447": {
     "__info_message": "Info: storing URL",
     "contest_id": 2237,
