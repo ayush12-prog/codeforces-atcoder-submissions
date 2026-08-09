@@ -4604,5 +4604,93 @@
       "*1500"
     ],
     "timestamp": "Aug/08/2026 19:33"
+  },
+  "CF386331298": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2108,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Permutation Warm-Up",
+    "problem_url": "https://codeforces.com/contest/2108/problem/A",
+    "submission_id": "CF386331298",
+    "submission_url": "https://codeforces.com/contest/2108/submission/386331298",
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/09/2026 20:08"
+  },
+  "CF386331541": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2107,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "LRC and VIP",
+    "problem_url": "https://codeforces.com/contest/2107/problem/A",
+    "submission_id": "CF386331541",
+    "submission_url": "https://codeforces.com/contest/2107/submission/386331541",
+    "tags": [
+      "greedy",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Aug/09/2026 20:10"
+  },
+  "CF386331697": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2104,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Three Decks",
+    "problem_url": "https://codeforces.com/contest/2104/problem/A",
+    "submission_id": "CF386331697",
+    "submission_url": "https://codeforces.com/contest/2104/submission/386331697",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/09/2026 20:11"
+  },
+  "CF386336112": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2256,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Three Numbers on the Blackboard",
+    "problem_url": "https://codeforces.com/contest/2256/problem/A",
+    "submission_id": "CF386336112",
+    "submission_url": "https://codeforces.com/contest/2256/submission/386336112",
+    "tags": [
+      "math",
+      "sortings"
+    ],
+    "timestamp": "Aug/09/2026 20:38"
+  },
+  "CF386351387": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2256,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Domino Tiles",
+    "problem_url": "https://codeforces.com/contest/2256/problem/B",
+    "submission_id": "CF386351387",
+    "submission_url": "https://codeforces.com/contest/2256/submission/386351387",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Aug/09/2026 20:57"
   }
 }
