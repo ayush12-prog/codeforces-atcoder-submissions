@@ -4881,5 +4881,83 @@
       "two pointers"
     ],
     "timestamp": "Aug/11/2026 21:33"
+  },
+  "CF386769337": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2253,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sum of Distinct Values in a Matrix",
+    "problem_url": "https://codeforces.com/contest/2253/problem/C",
+    "submission_id": "CF386769337",
+    "submission_url": "https://codeforces.com/contest/2253/submission/386769337",
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers"
+    ],
+    "timestamp": "Aug/12/2026 19:29"
+  },
+  "CF386770982": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2253,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Hypercarp and Interdimensional Jumps",
+    "problem_url": "https://codeforces.com/contest/2253/problem/D",
+    "submission_id": "CF386770982",
+    "submission_url": "https://codeforces.com/contest/2253/submission/386770982",
+    "tags": [
+      "binary search",
+      "brute force",
+      "geometry",
+      "greedy",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Aug/12/2026 19:38"
+  },
+  "CF386771758": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2218,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "The 67th OEIS Problem",
+    "problem_url": "https://codeforces.com/contest/2218/problem/D",
+    "submission_id": "CF386771758",
+    "submission_url": "https://codeforces.com/contest/2218/submission/386771758",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Aug/12/2026 19:42"
+  },
+  "CF386779716": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2218,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The 67th XOR Problem",
+    "problem_url": "https://codeforces.com/contest/2218/problem/E",
+    "submission_id": "CF386779716",
+    "submission_url": "https://codeforces.com/contest/2218/submission/386779716",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "brute force",
+      "*1200"
+    ],
+    "timestamp": "Aug/12/2026 20:30"
   }
 }
