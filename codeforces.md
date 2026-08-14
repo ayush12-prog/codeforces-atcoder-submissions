@@ -48,42 +48,42 @@
 <td align="center">3</td>
 <td><a href="https://codeforces.com/contest/2253/problem/D"><b>D</b> - Hypercarp and Interdimensional Jumps</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2253/submission/386770982" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>binary search</code> <code>brute force</code> <code>geometry</code> <code>greedy</code> <code>implementation</code> <code>math</code></td>
+<td><code>binary search</code> <code>brute force</code> <code>geometry</code> <code>greedy</code> <code>implementation</code> <code>math</code> <code>*1800</code></td>
 <td align="center"><sub>Aug/12/2026 19:38</sub></td>
 </tr>
 <tr>
 <td align="center">4</td>
 <td><a href="https://codeforces.com/contest/2253/problem/C"><b>C</b> - Sum of Distinct Values in a Matrix</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2253/submission/386769337" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>greedy</code> <code>sortings</code> <code>two pointers</code></td>
+<td><code>greedy</code> <code>sortings</code> <code>two pointers</code> <code>*1500</code></td>
 <td align="center"><sub>Aug/12/2026 19:29</sub></td>
 </tr>
 <tr>
 <td align="center">5</td>
 <td><a href="https://codeforces.com/contest/2253/problem/B"><b>B</b> - Hypercarp and the Control Panel</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2253/submission/386636699" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>brute force</code> <code>data structures</code> <code>two pointers</code></td>
+<td><code>brute force</code> <code>data structures</code> <code>two pointers</code> <code>*1100</code></td>
 <td align="center"><sub>Aug/11/2026 21:33</sub></td>
 </tr>
 <tr>
 <td align="center">6</td>
 <td><a href="https://codeforces.com/contest/2253/problem/A"><b>A</b> - The Best Card</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2253/submission/386635745" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>greedy</code> <code>math</code> <code>number theory</code></td>
+<td><code>greedy</code> <code>math</code> <code>number theory</code> <code>*800</code></td>
 <td align="center"><sub>Aug/11/2026 21:26</sub></td>
 </tr>
 <tr>
 <td align="center">7</td>
 <td><a href="https://codeforces.com/contest/2256/problem/D"><b>D</b> - A Ribbon for Tomorrow</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2256/submission/386634930" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>math</code></td>
+<td><code>math</code> <code>*1600</code></td>
 <td align="center"><sub>Aug/11/2026 21:20</sub></td>
 </tr>
 <tr>
 <td align="center">8</td>
 <td><a href="https://codeforces.com/contest/2256/problem/C"><b>C</b> - Hot Potatoes at the Fairy Warehouse</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2256/submission/386633692" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>games</code></td>
+<td><code>brute force</code> <code>games</code> <code>*1200</code></td>
 <td align="center"><sub>Aug/11/2026 21:11</sub></td>
 </tr>
 <tr>
@@ -125,14 +125,14 @@
 <td align="center">14</td>
 <td><a href="https://codeforces.com/contest/2256/problem/B"><b>B</b> - Domino Tiles</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2256/submission/386351387" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>implementation</code> <code>math</code></td>
+<td><code>implementation</code> <code>math</code> <code>*1000</code></td>
 <td align="center"><sub>Aug/09/2026 20:57</sub></td>
 </tr>
 <tr>
 <td align="center">15</td>
 <td><a href="https://codeforces.com/contest/2256/problem/A"><b>A</b> - Three Numbers on the Blackboard</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2256/submission/386336112" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>math</code> <code>sortings</code></td>
+<td><code>math</code> <code>sortings</code> <code>*800</code></td>
 <td align="center"><sub>Aug/09/2026 20:38</sub></td>
 </tr>
 <tr>
@@ -209,70 +209,70 @@
 <td align="center">26</td>
 <td><a href="https://codeforces.com/contest/2254/problem/E"><b>E</b> - Chronostasis</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2254/submission/386063091" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>binary search</code> <code>data structures</code> <code>greedy</code></td>
+<td><code>binary search</code> <code>data structures</code> <code>greedy</code> <code>*1500</code></td>
 <td align="center"><sub>Aug/07/2026 18:54</sub></td>
 </tr>
 <tr>
 <td align="center">27</td>
 <td><a href="https://codeforces.com/contest/2254/problem/D"><b>D</b> - Silhouette</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2254/submission/386062745" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>constructive algorithms</code> <code>math</code> <code>sortings</code></td>
+<td><code>constructive algorithms</code> <code>math</code> <code>sortings</code> <code>*1300</code></td>
 <td align="center"><sub>Aug/07/2026 18:51</sub></td>
 </tr>
 <tr>
 <td align="center">28</td>
 <td><a href="https://codeforces.com/contest/2254/problem/C2"><b>C2</b> - Marenol (hard version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2254/submission/386061730" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>greedy</code> <code>sortings</code></td>
+<td><code>greedy</code> <code>sortings</code> <code>*1200</code></td>
 <td align="center"><sub>Aug/07/2026 18:42</sub></td>
 </tr>
 <tr>
 <td align="center">29</td>
 <td><a href="https://codeforces.com/contest/2254/problem/C1"><b>C1</b> - Marenol (easy version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2254/submission/386061393" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>greedy</code></td>
+<td><code>greedy</code> <code>*1000</code></td>
 <td align="center"><sub>Aug/07/2026 18:38</sub></td>
 </tr>
 <tr>
 <td align="center">30</td>
 <td><a href="https://codeforces.com/contest/2254/problem/B"><b>B</b> - Evanescent</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2254/submission/386061189" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>implementation</code> <code>strings</code> <code>two pointers</code></td>
+<td><code>implementation</code> <code>strings</code> <code>two pointers</code> <code>*900</code></td>
 <td align="center"><sub>Aug/07/2026 18:37</sub></td>
 </tr>
 <tr>
 <td align="center">31</td>
 <td><a href="https://codeforces.com/contest/2254/problem/A"><b>A</b> - Riptide</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2254/submission/386061054" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>implementation</code> <code>sortings</code></td>
+<td><code>implementation</code> <code>sortings</code> <code>*800</code></td>
 <td align="center"><sub>Aug/07/2026 18:35</sub></td>
 </tr>
 <tr>
 <td align="center">32</td>
 <td><a href="https://codeforces.com/contest/2252/problem/D"><b>D</b> - Array Replacement</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2252/submission/385946449" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>greedy</code> <code>sortings</code></td>
+<td><code>greedy</code> <code>sortings</code> <code>*1700</code></td>
 <td align="center"><sub>Aug/06/2026 21:44</sub></td>
 </tr>
 <tr>
 <td align="center">33</td>
 <td><a href="https://codeforces.com/contest/2252/problem/C"><b>C</b> - Risky Tower</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2252/submission/385933340" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>binary search</code> <code>brute force</code> <code>data structures</code> <code>greedy</code> <code>sortings</code></td>
+<td><code>binary search</code> <code>brute force</code> <code>data structures</code> <code>greedy</code> <code>sortings</code> <code>*1400</code></td>
 <td align="center"><sub>Aug/06/2026 21:22</sub></td>
 </tr>
 <tr>
 <td align="center">34</td>
 <td><a href="https://codeforces.com/contest/2252/problem/B"><b>B</b> - Always Changing</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2252/submission/385919421" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>dp</code> <code>greedy</code> <code>math</code> <code>strings</code></td>
+<td><code>dp</code> <code>greedy</code> <code>math</code> <code>strings</code> <code>*1100</code></td>
 <td align="center"><sub>Aug/06/2026 21:02</sub></td>
 </tr>
 <tr>
 <td align="center">35</td>
 <td><a href="https://codeforces.com/contest/2252/problem/A"><b>A</b> - Boss Fight</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2252/submission/385906638" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>data structures</code> <code>greedy</code></td>
+<td><code>data structures</code> <code>greedy</code> <code>*800</code></td>
 <td align="center"><sub>Aug/06/2026 20:47</sub></td>
 </tr>
 <tr>
@@ -1684,6 +1684,6 @@
 
 <div align="center">
 
-*Last Updated: August 12, 2026 at 23:58 BDT (UTC+6)*
+*Last Updated: August 14, 2026 at 23:55 BDT (UTC+6)*
 
 </div>

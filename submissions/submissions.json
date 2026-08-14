@@ -4254,7 +4254,7 @@
     "timestamp": "Aug/05/2026 21:27"
   },
   "CF385906638": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2252,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4266,12 +4266,13 @@
     "submission_url": "https://codeforces.com/contest/2252/submission/385906638",
     "tags": [
       "data structures",
-      "greedy"
+      "greedy",
+      "*800"
     ],
     "timestamp": "Aug/06/2026 20:47"
   },
   "CF385919421": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2252,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4285,12 +4286,13 @@
       "dp",
       "greedy",
       "math",
-      "strings"
+      "strings",
+      "*1100"
     ],
     "timestamp": "Aug/06/2026 21:02"
   },
   "CF385933340": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2252,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4305,12 +4307,13 @@
       "brute force",
       "data structures",
       "greedy",
-      "sortings"
+      "sortings",
+      "*1400"
     ],
     "timestamp": "Aug/06/2026 21:22"
   },
   "CF385946449": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2252,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4322,12 +4325,13 @@
     "submission_url": "https://codeforces.com/contest/2252/submission/385946449",
     "tags": [
       "greedy",
-      "sortings"
+      "sortings",
+      "*1700"
     ],
     "timestamp": "Aug/06/2026 21:44"
   },
   "CF386061054": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2254,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4339,12 +4343,13 @@
     "submission_url": "https://codeforces.com/contest/2254/submission/386061054",
     "tags": [
       "implementation",
-      "sortings"
+      "sortings",
+      "*800"
     ],
     "timestamp": "Aug/07/2026 18:35"
   },
   "CF386061189": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2254,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4357,12 +4362,13 @@
     "tags": [
       "implementation",
       "strings",
-      "two pointers"
+      "two pointers",
+      "*900"
     ],
     "timestamp": "Aug/07/2026 18:37"
   },
   "CF386061393": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2254,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4373,12 +4379,13 @@
     "submission_id": "CF386061393",
     "submission_url": "https://codeforces.com/contest/2254/submission/386061393",
     "tags": [
-      "greedy"
+      "greedy",
+      "*1000"
     ],
     "timestamp": "Aug/07/2026 18:38"
   },
   "CF386061730": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2254,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4390,12 +4397,13 @@
     "submission_url": "https://codeforces.com/contest/2254/submission/386061730",
     "tags": [
       "greedy",
-      "sortings"
+      "sortings",
+      "*1200"
     ],
     "timestamp": "Aug/07/2026 18:42"
   },
   "CF386062745": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2254,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4408,12 +4416,13 @@
     "tags": [
       "constructive algorithms",
       "math",
-      "sortings"
+      "sortings",
+      "*1300"
     ],
     "timestamp": "Aug/07/2026 18:51"
   },
   "CF386063091": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2254,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4426,7 +4435,8 @@
     "tags": [
       "binary search",
       "data structures",
-      "greedy"
+      "greedy",
+      "*1500"
     ],
     "timestamp": "Aug/07/2026 18:54"
   },
@@ -4690,7 +4700,7 @@
     "timestamp": "Aug/09/2026 20:11"
   },
   "CF386336112": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2256,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4702,12 +4712,13 @@
     "submission_url": "https://codeforces.com/contest/2256/submission/386336112",
     "tags": [
       "math",
-      "sortings"
+      "sortings",
+      "*800"
     ],
     "timestamp": "Aug/09/2026 20:38"
   },
   "CF386351387": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2256,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4719,7 +4730,8 @@
     "submission_url": "https://codeforces.com/contest/2256/submission/386351387",
     "tags": [
       "implementation",
-      "math"
+      "math",
+      "*1000"
     ],
     "timestamp": "Aug/09/2026 20:57"
   },
@@ -4815,7 +4827,7 @@
     "timestamp": "Aug/10/2026 20:51"
   },
   "CF386633692": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2256,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4826,12 +4838,14 @@
     "submission_id": "CF386633692",
     "submission_url": "https://codeforces.com/contest/2256/submission/386633692",
     "tags": [
-      "games"
+      "brute force",
+      "games",
+      "*1200"
     ],
     "timestamp": "Aug/11/2026 21:11"
   },
   "CF386634930": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2256,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4842,12 +4856,13 @@
     "submission_id": "CF386634930",
     "submission_url": "https://codeforces.com/contest/2256/submission/386634930",
     "tags": [
-      "math"
+      "math",
+      "*1600"
     ],
     "timestamp": "Aug/11/2026 21:20"
   },
   "CF386635745": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2253,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4860,12 +4875,13 @@
     "tags": [
       "greedy",
       "math",
-      "number theory"
+      "number theory",
+      "*800"
     ],
     "timestamp": "Aug/11/2026 21:26"
   },
   "CF386636699": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2253,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4878,12 +4894,13 @@
     "tags": [
       "brute force",
       "data structures",
-      "two pointers"
+      "two pointers",
+      "*1100"
     ],
     "timestamp": "Aug/11/2026 21:33"
   },
   "CF386769337": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2253,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4896,12 +4913,13 @@
     "tags": [
       "greedy",
       "sortings",
-      "two pointers"
+      "two pointers",
+      "*1500"
     ],
     "timestamp": "Aug/12/2026 19:29"
   },
   "CF386770982": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2253,
     "language": "Kotlin 2.2",
     "path": null,
@@ -4917,7 +4935,8 @@
       "geometry",
       "greedy",
       "implementation",
-      "math"
+      "math",
+      "*1800"
     ],
     "timestamp": "Aug/12/2026 19:38"
   },
