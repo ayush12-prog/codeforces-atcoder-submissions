@@ -539,6 +539,66 @@
     ],
     "timestamp": "Aug/09/2026 19:43"
   },
+  "AC78389878": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc471",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc471/tasks/abc471_a",
+    "submission_id": "AC78389878",
+    "submission_url": "https://atcoder.jp/contests/abc471/submissions/78389878",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Aug/15/2026 18:07"
+  },
+  "AC78401091": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc471",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc471/tasks/abc471_b",
+    "submission_id": "AC78401091",
+    "submission_url": "https://atcoder.jp/contests/abc471/submissions/78401091",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/15/2026 18:19"
+  },
+  "AC78413237": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc471",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc471/tasks/abc471_c",
+    "submission_id": "AC78413237",
+    "submission_url": "https://atcoder.jp/contests/abc471/submissions/78413237",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/15/2026 18:39"
+  },
+  "AC78424612": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc471",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc471/tasks/abc471_d",
+    "submission_id": "AC78424612",
+    "submission_url": "https://atcoder.jp/contests/abc471/submissions/78424612",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Aug/15/2026 19:04"
+  },
   "CF379519447": {
     "__info_message": "Info: storing URL",
     "contest_id": 2237,
