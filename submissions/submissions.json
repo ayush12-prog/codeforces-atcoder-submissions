@@ -4978,5 +4978,159 @@
       "*1200"
     ],
     "timestamp": "Aug/12/2026 20:30"
+  },
+  "CF387150011": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2218,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "The 67th Tree Problem",
+    "problem_url": "https://codeforces.com/contest/2218/problem/F",
+    "submission_id": "CF387150011",
+    "submission_url": "https://codeforces.com/contest/2218/submission/387150011",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "trees",
+      "*1500"
+    ],
+    "timestamp": "Aug/15/2026 18:19"
+  },
+  "CF387152957": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2218,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "The 67th Iteration of \"Counting is Fun\"",
+    "problem_url": "https://codeforces.com/contest/2218/problem/G",
+    "submission_id": "CF387152957",
+    "submission_url": "https://codeforces.com/contest/2218/submission/387152957",
+    "tags": [
+      "implementation",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Aug/15/2026 18:46"
+  },
+  "CF387154823": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Shifted MEX",
+    "problem_url": "https://codeforces.com/contest/2185/problem/C",
+    "submission_id": "CF387154823",
+    "submission_url": "https://codeforces.com/contest/2185/submission/387154823",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Aug/15/2026 19:02"
+  },
+  "CF387155004": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "OutOfMemoryError",
+    "problem_url": "https://codeforces.com/contest/2185/problem/D",
+    "submission_id": "CF387155004",
+    "submission_url": "https://codeforces.com/contest/2185/submission/387155004",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "Aug/15/2026 19:04"
+  },
+  "CF387155315": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Robotic Rush",
+    "problem_url": "https://codeforces.com/contest/2185/problem/E",
+    "submission_id": "CF387155315",
+    "submission_url": "https://codeforces.com/contest/2185/submission/387155315",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Aug/15/2026 19:06"
+  },
+  "CF387155613": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "BattleCows",
+    "problem_url": "https://codeforces.com/contest/2185/problem/F",
+    "submission_id": "CF387155613",
+    "submission_url": "https://codeforces.com/contest/2185/submission/387155613",
+    "tags": [
+      "data structures",
+      "divide and conquer",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Aug/15/2026 19:09"
+  },
+  "CF387155934": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Mixing MEXes",
+    "problem_url": "https://codeforces.com/contest/2185/problem/G",
+    "submission_id": "CF387155934",
+    "submission_url": "https://codeforces.com/contest/2185/submission/387155934",
+    "tags": [
+      "data structures",
+      "implementation",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Aug/15/2026 19:12"
+  },
+  "CF387157166": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2185,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "BattleCows 2",
+    "problem_url": "https://codeforces.com/contest/2185/problem/H",
+    "submission_id": "CF387157166",
+    "submission_url": "https://codeforces.com/contest/2185/submission/387157166",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "*2500"
+    ],
+    "timestamp": "Aug/15/2026 19:22"
   }
 }
