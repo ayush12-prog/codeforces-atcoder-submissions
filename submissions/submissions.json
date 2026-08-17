@@ -5438,5 +5438,265 @@
       "*1900"
     ],
     "timestamp": "Aug/16/2026 21:20"
+  },
+  "CF387388972": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2065,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Skibidus and Amog'u",
+    "problem_url": "https://codeforces.com/contest/2065/problem/A",
+    "submission_id": "CF387388972",
+    "submission_url": "https://codeforces.com/contest/2065/submission/387388972",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Aug/17/2026 18:41"
+  },
+  "CF387389203": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2065,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Skibidus and Ohio",
+    "problem_url": "https://codeforces.com/contest/2065/problem/B",
+    "submission_id": "CF387389203",
+    "submission_url": "https://codeforces.com/contest/2065/submission/387389203",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Aug/17/2026 18:43"
+  },
+  "CF387389380": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2065,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Skibidus and Fanum Tax (easy version)",
+    "problem_url": "https://codeforces.com/contest/2065/problem/C1",
+    "submission_id": "CF387389380",
+    "submission_url": "https://codeforces.com/contest/2065/submission/387389380",
+    "tags": [
+      "binary search",
+      "dp",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Aug/17/2026 18:44"
+  },
+  "CF387389761": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2065,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Skibidus and Fanum Tax (hard version)",
+    "problem_url": "https://codeforces.com/contest/2065/problem/C2",
+    "submission_id": "CF387389761",
+    "submission_url": "https://codeforces.com/contest/2065/submission/387389761",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Aug/17/2026 18:48"
+  },
+  "CF387390033": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2065,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Skibidus and Sigma",
+    "problem_url": "https://codeforces.com/contest/2065/problem/D",
+    "submission_id": "CF387390033",
+    "submission_url": "https://codeforces.com/contest/2065/submission/387390033",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Aug/17/2026 18:50"
+  },
+  "CF387390336": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2065,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Skibidus and Rizz",
+    "problem_url": "https://codeforces.com/contest/2065/problem/E",
+    "submission_id": "CF387390336",
+    "submission_url": "https://codeforces.com/contest/2065/submission/387390336",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*1600"
+    ],
+    "timestamp": "Aug/17/2026 18:52"
+  },
+  "CF387390595": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2065,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Skibidus and Slay",
+    "problem_url": "https://codeforces.com/contest/2065/problem/F",
+    "submission_id": "CF387390595",
+    "submission_url": "https://codeforces.com/contest/2065/submission/387390595",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "greedy",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Aug/17/2026 18:54"
+  },
+  "CF387390817": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2065,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Skibidus and Capping",
+    "problem_url": "https://codeforces.com/contest/2065/problem/G",
+    "submission_id": "CF387390817",
+    "submission_url": "https://codeforces.com/contest/2065/submission/387390817",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "*1700"
+    ],
+    "timestamp": "Aug/17/2026 18:57"
+  },
+  "CF387391098": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2065,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Bro Thinks He's Him",
+    "problem_url": "https://codeforces.com/contest/2065/problem/H",
+    "submission_id": "CF387391098",
+    "submission_url": "https://codeforces.com/contest/2065/submission/387391098",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "divide and conquer",
+      "dp",
+      "math",
+      "matrices",
+      "*2200"
+    ],
+    "timestamp": "Aug/17/2026 18:59"
+  },
+  "CF387405442": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2257,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Creating Abbreviations",
+    "problem_url": "https://codeforces.com/contest/2257/problem/A",
+    "submission_id": "CF387405442",
+    "submission_url": "https://codeforces.com/contest/2257/submission/387405442",
+    "tags": [
+      "fft",
+      "strings"
+    ],
+    "timestamp": "Aug/17/2026 20:42"
+  },
+  "CF387417916": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2257,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Gigantomachy",
+    "problem_url": "https://codeforces.com/contest/2257/problem/B",
+    "submission_id": "CF387417916",
+    "submission_url": "https://codeforces.com/contest/2257/submission/387417916",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Aug/17/2026 20:56"
+  },
+  "CF387423673": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2257,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Spying on the Beaver",
+    "problem_url": "https://codeforces.com/contest/2257/problem/C",
+    "submission_id": "CF387423673",
+    "submission_url": "https://codeforces.com/contest/2257/submission/387423673",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "trees"
+    ],
+    "timestamp": "Aug/17/2026 21:03"
+  },
+  "CF387434817": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2257,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bermuda Rectangle",
+    "problem_url": "https://codeforces.com/contest/2257/problem/D",
+    "submission_id": "CF387434817",
+    "submission_url": "https://codeforces.com/contest/2257/submission/387434817",
+    "tags": [
+      "binary search",
+      "math"
+    ],
+    "timestamp": "Aug/17/2026 21:22"
+  },
+  "CF387450234": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2257,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Busy Beaver",
+    "problem_url": "https://codeforces.com/contest/2257/problem/E",
+    "submission_id": "CF387450234",
+    "submission_url": "https://codeforces.com/contest/2257/submission/387450234",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy"
+    ],
+    "timestamp": "Aug/17/2026 21:57"
   }
 }
