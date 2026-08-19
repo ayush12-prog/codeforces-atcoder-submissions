@@ -5678,8 +5678,10 @@
     "submission_url": "https://codeforces.com/contest/2257/submission/387434817",
     "tags": [
       "binary search",
+      "implementation",
       "math",
-      "number theory"
+      "number theory",
+      "two pointers"
     ],
     "timestamp": "Aug/17/2026 21:22"
   },
@@ -5722,5 +5724,145 @@
       "*800"
     ],
     "timestamp": "Aug/18/2026 19:45"
+  },
+  "CF387697323": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2044,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Normal Problem",
+    "problem_url": "https://codeforces.com/contest/2044/problem/B",
+    "submission_id": "CF387697323",
+    "submission_url": "https://codeforces.com/contest/2044/submission/387697323",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Aug/19/2026 21:13"
+  },
+  "CF387697489": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2044,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hard Problem",
+    "problem_url": "https://codeforces.com/contest/2044/problem/C",
+    "submission_id": "CF387697489",
+    "submission_url": "https://codeforces.com/contest/2044/submission/387697489",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/19/2026 21:15"
+  },
+  "CF387697687": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2044,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Harder Problem",
+    "problem_url": "https://codeforces.com/contest/2044/problem/D",
+    "submission_id": "CF387697687",
+    "submission_url": "https://codeforces.com/contest/2044/submission/387697687",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Aug/19/2026 21:17"
+  },
+  "CF387698012": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2044,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Insane Problem",
+    "problem_url": "https://codeforces.com/contest/2044/problem/E",
+    "submission_id": "CF387698012",
+    "submission_url": "https://codeforces.com/contest/2044/submission/387698012",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Aug/19/2026 21:20"
+  },
+  "CF387698254": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2044,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Easy Demon Problem",
+    "problem_url": "https://codeforces.com/contest/2044/problem/F",
+    "submission_id": "CF387698254",
+    "submission_url": "https://codeforces.com/contest/2044/submission/387698254",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "math",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "Aug/19/2026 21:22"
+  },
+  "CF387698562": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2044,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "Medium Demon Problem (easy version)",
+    "problem_url": "https://codeforces.com/contest/2044/problem/G1",
+    "submission_id": "CF387698562",
+    "submission_url": "https://codeforces.com/contest/2044/submission/387698562",
+    "tags": [
+      "dfs and similar",
+      "graph matchings",
+      "graphs",
+      "implementation",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Aug/19/2026 21:24"
+  },
+  "CF387698822": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2044,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G2",
+    "problem_name": "Medium Demon Problem (hard version)",
+    "problem_url": "https://codeforces.com/contest/2044/problem/G2",
+    "submission_id": "CF387698822",
+    "submission_url": "https://codeforces.com/contest/2044/submission/387698822",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "implementation",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Aug/19/2026 21:26"
   }
 }
