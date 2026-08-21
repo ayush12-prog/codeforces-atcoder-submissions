@@ -5658,6 +5658,7 @@
     "submission_id": "CF387423673",
     "submission_url": "https://codeforces.com/contest/2257/submission/387423673",
     "tags": [
+      "constructive algorithms",
       "dfs and similar",
       "dsu",
       "graphs",
@@ -5864,5 +5865,194 @@
       "*1900"
     ],
     "timestamp": "Aug/19/2026 21:26"
+  },
+  "CF387888381": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2044,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Hard Demon Problem",
+    "problem_url": "https://codeforces.com/contest/2044/problem/H",
+    "submission_id": "CF387888381",
+    "submission_url": "https://codeforces.com/contest/2044/submission/387888381",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "*2100"
+    ],
+    "timestamp": "Aug/21/2026 18:57"
+  },
+  "CF387888640": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2009,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Minimize!",
+    "problem_url": "https://codeforces.com/contest/2009/problem/A",
+    "submission_id": "CF387888640",
+    "submission_url": "https://codeforces.com/contest/2009/submission/387888640",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/21/2026 18:59"
+  },
+  "CF387888909": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2009,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "osu!mania",
+    "problem_url": "https://codeforces.com/contest/2009/problem/B",
+    "submission_id": "CF387888909",
+    "submission_url": "https://codeforces.com/contest/2009/submission/387888909",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/21/2026 19:01"
+  },
+  "CF387889147": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2009,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Legend of Freya the Frog",
+    "problem_url": "https://codeforces.com/contest/2009/problem/C",
+    "submission_id": "CF387889147",
+    "submission_url": "https://codeforces.com/contest/2009/submission/387889147",
+    "tags": [
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Aug/21/2026 19:03"
+  },
+  "CF387890753": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2009,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Klee's SUPER DUPER LARGE Array!!!",
+    "problem_url": "https://codeforces.com/contest/2009/problem/E",
+    "submission_id": "CF387890753",
+    "submission_url": "https://codeforces.com/contest/2009/submission/387890753",
+    "tags": [
+      "binary search",
+      "math",
+      "ternary search",
+      "*1400"
+    ],
+    "timestamp": "Aug/21/2026 19:17"
+  },
+  "CF387891032": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2009,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Firefly's Queries",
+    "problem_url": "https://codeforces.com/contest/2009/problem/F",
+    "submission_id": "CF387891032",
+    "submission_url": "https://codeforces.com/contest/2009/submission/387891032",
+    "tags": [
+      "bitmasks",
+      "data structures",
+      "flows",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Aug/21/2026 19:19"
+  },
+  "CF387891426": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2009,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "Yunli's Subarray Queries (easy version)",
+    "problem_url": "https://codeforces.com/contest/2009/problem/G1",
+    "submission_id": "CF387891426",
+    "submission_url": "https://codeforces.com/contest/2009/submission/387891426",
+    "tags": [
+      "binary search",
+      "data structures",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Aug/21/2026 19:22"
+  },
+  "CF387891833": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2009,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G2",
+    "problem_name": "Yunli's Subarray Queries (hard version)",
+    "problem_url": "https://codeforces.com/contest/2009/problem/G2",
+    "submission_id": "CF387891833",
+    "submission_url": "https://codeforces.com/contest/2009/submission/387891833",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "*2200"
+    ],
+    "timestamp": "Aug/21/2026 19:26"
+  },
+  "CF387892364": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2009,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G3",
+    "problem_name": "Yunli's Subarray Queries (extreme version)",
+    "problem_url": "https://codeforces.com/contest/2009/problem/G3",
+    "submission_id": "CF387892364",
+    "submission_url": "https://codeforces.com/contest/2009/submission/387892364",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "*2700"
+    ],
+    "timestamp": "Aug/21/2026 19:30"
+  },
+  "CF387892767": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2009,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Satyam and Counting",
+    "problem_url": "https://codeforces.com/contest/2009/problem/D",
+    "submission_id": "CF387892767",
+    "submission_url": "https://codeforces.com/contest/2009/submission/387892767",
+    "tags": [
+      "geometry",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Aug/21/2026 19:34"
   }
 }
