@@ -6054,5 +6054,26 @@
       "*1400"
     ],
     "timestamp": "Aug/21/2026 19:34"
+  },
+  "CF388001171": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2248,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Excuse for Breaks",
+    "problem_url": "https://codeforces.com/contest/2248/problem/E",
+    "submission_id": "CF388001171",
+    "submission_url": "https://codeforces.com/contest/2248/submission/388001171",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "math",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Aug/22/2026 18:53"
   }
 }
