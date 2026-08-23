@@ -6135,5 +6135,399 @@
       "*1900"
     ],
     "timestamp": "Aug/22/2026 18:53"
+  },
+  "CF388137488": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1999,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A+B Again?",
+    "problem_url": "https://codeforces.com/contest/1999/problem/A",
+    "submission_id": "CF388137488",
+    "submission_url": "https://codeforces.com/contest/1999/submission/388137488",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/23/2026 18:28"
+  },
+  "CF388137622": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1999,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Card Game",
+    "problem_url": "https://codeforces.com/contest/1999/problem/B",
+    "submission_id": "CF388137622",
+    "submission_url": "https://codeforces.com/contest/1999/submission/388137622",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Aug/23/2026 18:30"
+  },
+  "CF388137834": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1999,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Showering",
+    "problem_url": "https://codeforces.com/contest/1999/problem/C",
+    "submission_id": "CF388137834",
+    "submission_url": "https://codeforces.com/contest/1999/submission/388137834",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/23/2026 18:32"
+  },
+  "CF388137941": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1999,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Slavic's Exam",
+    "problem_url": "https://codeforces.com/contest/1999/problem/D",
+    "submission_id": "CF388137941",
+    "submission_url": "https://codeforces.com/contest/1999/submission/388137941",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Aug/23/2026 18:33"
+  },
+  "CF388138143": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1999,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Triple Operations",
+    "problem_url": "https://codeforces.com/contest/1999/problem/E",
+    "submission_id": "CF388138143",
+    "submission_url": "https://codeforces.com/contest/1999/submission/388138143",
+    "tags": [
+      "dp",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Aug/23/2026 18:35"
+  },
+  "CF388138290": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1999,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Expected Median",
+    "problem_url": "https://codeforces.com/contest/1999/problem/F",
+    "submission_id": "CF388138290",
+    "submission_url": "https://codeforces.com/contest/1999/submission/388138290",
+    "tags": [
+      "combinatorics",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Aug/23/2026 18:37"
+  },
+  "CF388138460": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1999,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "Ruler (easy version)",
+    "problem_url": "https://codeforces.com/contest/1999/problem/G1",
+    "submission_id": "CF388138460",
+    "submission_url": "https://codeforces.com/contest/1999/submission/388138460",
+    "tags": [
+      "binary search",
+      "interactive",
+      "*1500"
+    ],
+    "timestamp": "Aug/23/2026 18:39"
+  },
+  "CF388138683": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1999,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G2",
+    "problem_name": "Ruler (hard version)",
+    "problem_url": "https://codeforces.com/contest/1999/problem/G2",
+    "submission_id": "CF388138683",
+    "submission_url": "https://codeforces.com/contest/1999/submission/388138683",
+    "tags": [
+      "binary search",
+      "interactive",
+      "ternary search",
+      "*1700"
+    ],
+    "timestamp": "Aug/23/2026 18:41"
+  },
+  "CF388138808": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1985,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Creating Words",
+    "problem_url": "https://codeforces.com/contest/1985/problem/A",
+    "submission_id": "CF388138808",
+    "submission_url": "https://codeforces.com/contest/1985/submission/388138808",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Aug/23/2026 18:42"
+  },
+  "CF388138954": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1985,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Multiple Sum",
+    "problem_url": "https://codeforces.com/contest/1985/problem/B",
+    "submission_id": "CF388138954",
+    "submission_url": "https://codeforces.com/contest/1985/submission/388138954",
+    "tags": [
+      "brute force",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Aug/23/2026 18:44"
+  },
+  "CF388139081": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1985,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Good Prefixes",
+    "problem_url": "https://codeforces.com/contest/1985/problem/C",
+    "submission_id": "CF388139081",
+    "submission_url": "https://codeforces.com/contest/1985/submission/388139081",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Aug/23/2026 18:45"
+  },
+  "CF388139217": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1985,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Manhattan Circle",
+    "problem_url": "https://codeforces.com/contest/1985/problem/D",
+    "submission_id": "CF388139217",
+    "submission_url": "https://codeforces.com/contest/1985/submission/388139217",
+    "tags": [
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Aug/23/2026 18:47"
+  },
+  "CF388139420": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1985,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Secret Box",
+    "problem_url": "https://codeforces.com/contest/1985/problem/E",
+    "submission_id": "CF388139420",
+    "submission_url": "https://codeforces.com/contest/1985/submission/388139420",
+    "tags": [
+      "brute force",
+      "combinatorics",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Aug/23/2026 18:49"
+  },
+  "CF388139675": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1985,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Final Boss",
+    "problem_url": "https://codeforces.com/contest/1985/problem/F",
+    "submission_id": "CF388139675",
+    "submission_url": "https://codeforces.com/contest/1985/submission/388139675",
+    "tags": [
+      "binary search",
+      "data structures",
+      "*1500"
+    ],
+    "timestamp": "Aug/23/2026 18:51"
+  },
+  "CF388140028": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1985,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "D-Function",
+    "problem_url": "https://codeforces.com/contest/1985/problem/G",
+    "submission_id": "CF388140028",
+    "submission_url": "https://codeforces.com/contest/1985/submission/388140028",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "*1600"
+    ],
+    "timestamp": "Aug/23/2026 18:54"
+  },
+  "CF388140238": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1985,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "H1",
+    "problem_name": "Maximize the Largest Component (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1985/problem/H1",
+    "submission_id": "CF388140238",
+    "submission_url": "https://codeforces.com/contest/1985/submission/388140238",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Aug/23/2026 18:56"
+  },
+  "CF388140566": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1985,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "H2",
+    "problem_name": "Maximize the Largest Component (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1985/problem/H2",
+    "submission_id": "CF388140566",
+    "submission_url": "https://codeforces.com/contest/1985/submission/388140566",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "implementation",
+      "*2200"
+    ],
+    "timestamp": "Aug/23/2026 19:00"
+  },
+  "CF388142611": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2237,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Duck Surplus",
+    "problem_url": "https://codeforces.com/contest/2237/problem/C",
+    "submission_id": "CF388142611",
+    "submission_url": "https://codeforces.com/contest/2237/submission/388142611",
+    "tags": [
+      "binary search",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Aug/23/2026 19:21"
+  },
+  "CF388142864": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2237,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Fullmetal Bitchemist",
+    "problem_url": "https://codeforces.com/contest/2237/problem/D",
+    "submission_id": "CF388142864",
+    "submission_url": "https://codeforces.com/contest/2237/submission/388142864",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Aug/23/2026 19:23"
+  },
+  "CF388143224": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2237,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Permutation Commutation",
+    "problem_url": "https://codeforces.com/contest/2237/problem/E",
+    "submission_id": "CF388143224",
+    "submission_url": "https://codeforces.com/contest/2237/submission/388143224",
+    "tags": [
+      "data structures",
+      "graphs",
+      "greedy",
+      "*2000"
+    ],
+    "timestamp": "Aug/23/2026 19:27"
+  },
+  "CF388143912": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2237,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Paint the Array",
+    "problem_url": "https://codeforces.com/contest/2237/problem/F",
+    "submission_id": "CF388143912",
+    "submission_url": "https://codeforces.com/contest/2237/submission/388143912",
+    "tags": [
+      "data structures",
+      "dp",
+      "greedy",
+      "*2400"
+    ],
+    "timestamp": "Aug/23/2026 19:34"
   }
 }
