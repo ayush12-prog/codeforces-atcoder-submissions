@@ -6817,5 +6817,28 @@
       "*1700"
     ],
     "timestamp": "Aug/24/2026 20:07"
+  },
+  "CF388370019": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1950,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Shuffling Songs",
+    "problem_url": "https://codeforces.com/contest/1950/problem/G",
+    "submission_id": "CF388370019",
+    "submission_url": "https://codeforces.com/contest/1950/submission/388370019",
+    "tags": [
+      "bitmasks",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "hashing",
+      "implementation",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "Aug/25/2026 21:20"
   }
 }
