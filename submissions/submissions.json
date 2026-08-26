@@ -5686,12 +5686,13 @@
     "submission_url": "https://codeforces.com/contest/2257/submission/387405442",
     "tags": [
       "brute force",
-      "strings"
+      "strings",
+      "*800"
     ],
     "timestamp": "Aug/17/2026 20:42"
   },
   "CF387417916": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2257,
     "language": "Kotlin 2.2",
     "path": null,
@@ -5702,7 +5703,8 @@
     "submission_id": "CF387417916",
     "submission_url": "https://codeforces.com/contest/2257/submission/387417916",
     "tags": [
-      "math"
+      "math",
+      "*800"
     ],
     "timestamp": "Aug/17/2026 20:56"
   },
@@ -5722,7 +5724,8 @@
       "dfs and similar",
       "dsu",
       "graphs",
-      "trees"
+      "trees",
+      "*1200"
     ],
     "timestamp": "Aug/17/2026 21:03"
   },
@@ -5742,7 +5745,8 @@
       "implementation",
       "math",
       "number theory",
-      "two pointers"
+      "two pointers",
+      "*1600"
     ],
     "timestamp": "Aug/17/2026 21:22"
   },
@@ -5764,7 +5768,8 @@
       "dp",
       "greedy",
       "implementation",
-      "sortings"
+      "sortings",
+      "*2000"
     ],
     "timestamp": "Aug/17/2026 21:57"
   },
@@ -6840,5 +6845,142 @@
       "*1900"
     ],
     "timestamp": "Aug/25/2026 21:20"
+  },
+  "CF388472974": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1950,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Nearly Shortest Repeating Substring",
+    "problem_url": "https://codeforces.com/contest/1950/problem/E",
+    "submission_id": "CF388472974",
+    "submission_url": "https://codeforces.com/contest/1950/submission/388472974",
+    "tags": [
+      "brute force",
+      "implementation",
+      "number theory",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Aug/26/2026 19:53"
+  },
+  "CF388473641": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1926,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vlad and the Best of Five",
+    "problem_url": "https://codeforces.com/contest/1926/problem/A",
+    "submission_id": "CF388473641",
+    "submission_url": "https://codeforces.com/contest/1926/submission/388473641",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/26/2026 19:59"
+  },
+  "CF388474465": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1926,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vlad and Shapes",
+    "problem_url": "https://codeforces.com/contest/1926/problem/B",
+    "submission_id": "CF388474465",
+    "submission_url": "https://codeforces.com/contest/1926/submission/388474465",
+    "tags": [
+      "geometry",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/26/2026 20:06"
+  },
+  "CF388474621": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1926,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Vlad and a Sum of Sum of Digits",
+    "problem_url": "https://codeforces.com/contest/1926/problem/C",
+    "submission_id": "CF388474621",
+    "submission_url": "https://codeforces.com/contest/1926/submission/388474621",
+    "tags": [
+      "dp",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Aug/26/2026 20:07"
+  },
+  "CF388474949": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1926,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Vlad and Division",
+    "problem_url": "https://codeforces.com/contest/1926/problem/D",
+    "submission_id": "CF388474949",
+    "submission_url": "https://codeforces.com/contest/1926/submission/388474949",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "*1300"
+    ],
+    "timestamp": "Aug/26/2026 20:10"
+  },
+  "CF388475184": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1926,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Vlad and an Odd Ordering",
+    "problem_url": "https://codeforces.com/contest/1926/problem/E",
+    "submission_id": "CF388475184",
+    "submission_url": "https://codeforces.com/contest/1926/submission/388475184",
+    "tags": [
+      "binary search",
+      "bitmasks",
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "number theory",
+      "*1500"
+    ],
+    "timestamp": "Aug/26/2026 20:12"
+  },
+  "CF388477214": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1926,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Vlad and Trouble at MIT",
+    "problem_url": "https://codeforces.com/contest/1926/problem/G",
+    "submission_id": "CF388477214",
+    "submission_url": "https://codeforces.com/contest/1926/submission/388477214",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "flows",
+      "graphs",
+      "greedy",
+      "implementation",
+      "trees",
+      "*1900"
+    ],
+    "timestamp": "Aug/26/2026 20:30"
   }
 }
