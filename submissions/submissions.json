@@ -6982,5 +6982,23 @@
       "*1900"
     ],
     "timestamp": "Aug/26/2026 20:30"
+  },
+  "CF388589911": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2210,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Simply Sitting on Chairs",
+    "problem_url": "https://codeforces.com/contest/2210/problem/B",
+    "submission_id": "CF388589911",
+    "submission_url": "https://codeforces.com/contest/2210/submission/388589911",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Aug/27/2026 21:49"
   }
 }
