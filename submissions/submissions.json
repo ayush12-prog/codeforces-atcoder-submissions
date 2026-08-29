@@ -7154,5 +7154,225 @@
       "*1800"
     ],
     "timestamp": "Aug/28/2026 20:49"
+  },
+  "CF388771110": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1873,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Short Sort",
+    "problem_url": "https://codeforces.com/contest/1873/problem/A",
+    "submission_id": "CF388771110",
+    "submission_url": "https://codeforces.com/contest/1873/submission/388771110",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/29/2026 19:17"
+  },
+  "CF388771257": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1873,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Good Kid",
+    "problem_url": "https://codeforces.com/contest/1873/problem/B",
+    "submission_id": "CF388771257",
+    "submission_url": "https://codeforces.com/contest/1873/submission/388771257",
+    "tags": [
+      "brute force",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/29/2026 19:19"
+  },
+  "CF388771386": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1873,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Target Practice",
+    "problem_url": "https://codeforces.com/contest/1873/problem/C",
+    "submission_id": "CF388771386",
+    "submission_url": "https://codeforces.com/contest/1873/submission/388771386",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/29/2026 19:20"
+  },
+  "CF388771610": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1873,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "1D Eraser",
+    "problem_url": "https://codeforces.com/contest/1873/problem/D",
+    "submission_id": "CF388771610",
+    "submission_url": "https://codeforces.com/contest/1873/submission/388771610",
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Aug/29/2026 19:22"
+  },
+  "CF388771758": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1873,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Building an Aquarium",
+    "problem_url": "https://codeforces.com/contest/1873/problem/E",
+    "submission_id": "CF388771758",
+    "submission_url": "https://codeforces.com/contest/1873/submission/388771758",
+    "tags": [
+      "binary search",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Aug/29/2026 19:24"
+  },
+  "CF388771995": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1873,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Money Trees",
+    "problem_url": "https://codeforces.com/contest/1873/problem/F",
+    "submission_id": "CF388771995",
+    "submission_url": "https://codeforces.com/contest/1873/submission/388771995",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Aug/29/2026 19:27"
+  },
+  "CF388772195": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1873,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "ABBC or BACB",
+    "problem_url": "https://codeforces.com/contest/1873/problem/G",
+    "submission_id": "CF388772195",
+    "submission_url": "https://codeforces.com/contest/1873/submission/388772195",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Aug/29/2026 19:29"
+  },
+  "CF388772343": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1873,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Mad City",
+    "problem_url": "https://codeforces.com/contest/1873/problem/H",
+    "submission_id": "CF388772343",
+    "submission_url": "https://codeforces.com/contest/1873/submission/388772343",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "games",
+      "graphs",
+      "shortest paths",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Aug/29/2026 19:30"
+  },
+  "CF388787661": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2258,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Odd Eraser",
+    "problem_url": "https://codeforces.com/contest/2258/problem/A",
+    "submission_id": "CF388787661",
+    "submission_url": "https://codeforces.com/contest/2258/submission/388787661",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Aug/29/2026 20:48"
+  },
+  "CF388797597": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2258,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B1",
+    "problem_name": "Carrot Chopdown (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/2258/problem/B1",
+    "submission_id": "CF388797597",
+    "submission_url": "https://codeforces.com/contest/2258/submission/388797597",
+    "tags": [
+      "brute force",
+      "math"
+    ],
+    "timestamp": "Aug/29/2026 21:03"
+  },
+  "CF388807395": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2258,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B2",
+    "problem_name": "Carrot Chopdown (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/2258/problem/B2",
+    "submission_id": "CF388807395",
+    "submission_url": "https://codeforces.com/contest/2258/submission/388807395",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Aug/29/2026 21:23"
+  },
+  "CF388817919": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2258,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Far Cities",
+    "problem_url": "https://codeforces.com/contest/2258/problem/C",
+    "submission_id": "CF388817919",
+    "submission_url": "https://codeforces.com/contest/2258/submission/388817919",
+    "tags": [
+      "interactive",
+      "trees"
+    ],
+    "timestamp": "Aug/29/2026 21:47"
   }
 }
