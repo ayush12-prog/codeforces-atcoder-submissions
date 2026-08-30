@@ -7399,7 +7399,7 @@
     "timestamp": "Aug/29/2026 20:48"
   },
   "CF388797597": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2258,
     "language": "Kotlin 2.2",
     "path": null,
@@ -7411,12 +7411,13 @@
     "submission_url": "https://codeforces.com/contest/2258/submission/388797597",
     "tags": [
       "brute force",
+      "games",
       "math"
     ],
     "timestamp": "Aug/29/2026 21:03"
   },
   "CF388807395": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2258,
     "language": "Kotlin 2.2",
     "path": null,
@@ -7428,13 +7429,14 @@
     "submission_url": "https://codeforces.com/contest/2258/submission/388807395",
     "tags": [
       "brute force",
+      "greedy",
       "implementation",
       "math"
     ],
     "timestamp": "Aug/29/2026 21:23"
   },
   "CF388817919": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2258,
     "language": "Kotlin 2.2",
     "path": null,
@@ -7446,8 +7448,166 @@
     "submission_url": "https://codeforces.com/contest/2258/submission/388817919",
     "tags": [
       "interactive",
-      "trees"
+      "trees",
+      "two pointers"
     ],
     "timestamp": "Aug/29/2026 21:47"
+  },
+  "CF388920070": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1850,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "To My Critics",
+    "problem_url": "https://codeforces.com/contest/1850/problem/A",
+    "submission_id": "CF388920070",
+    "submission_url": "https://codeforces.com/contest/1850/submission/388920070",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Aug/30/2026 20:50"
+  },
+  "CF388920206": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1850,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Ten Words of Wisdom",
+    "problem_url": "https://codeforces.com/contest/1850/problem/B",
+    "submission_id": "CF388920206",
+    "submission_url": "https://codeforces.com/contest/1850/submission/388920206",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Aug/30/2026 20:51"
+  },
+  "CF388920438": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1850,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Word on the Paper",
+    "problem_url": "https://codeforces.com/contest/1850/problem/C",
+    "submission_id": "CF388920438",
+    "submission_url": "https://codeforces.com/contest/1850/submission/388920438",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Aug/30/2026 20:53"
+  },
+  "CF388920801": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1850,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Balanced Round",
+    "problem_url": "https://codeforces.com/contest/1850/problem/D",
+    "submission_id": "CF388920801",
+    "submission_url": "https://codeforces.com/contest/1850/submission/388920801",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Aug/30/2026 20:56"
+  },
+  "CF388921082": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1850,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cardboard for Pictures",
+    "problem_url": "https://codeforces.com/contest/1850/problem/E",
+    "submission_id": "CF388921082",
+    "submission_url": "https://codeforces.com/contest/1850/submission/388921082",
+    "tags": [
+      "binary search",
+      "geometry",
+      "implementation",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Aug/30/2026 20:58"
+  },
+  "CF388921238": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1850,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "We Were Both Children",
+    "problem_url": "https://codeforces.com/contest/1850/problem/F",
+    "submission_id": "CF388921238",
+    "submission_url": "https://codeforces.com/contest/1850/submission/388921238",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Aug/30/2026 21:00"
+  },
+  "CF388921514": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1850,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "The Morning Star",
+    "problem_url": "https://codeforces.com/contest/1850/problem/G",
+    "submission_id": "CF388921514",
+    "submission_url": "https://codeforces.com/contest/1850/submission/388921514",
+    "tags": [
+      "combinatorics",
+      "data structures",
+      "geometry",
+      "implementation",
+      "math",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Aug/30/2026 21:02"
+  },
+  "CF388921800": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1850,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "The Third Letter",
+    "problem_url": "https://codeforces.com/contest/1850/problem/H",
+    "submission_id": "CF388921800",
+    "submission_url": "https://codeforces.com/contest/1850/submission/388921800",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Aug/30/2026 21:05"
   }
 }
