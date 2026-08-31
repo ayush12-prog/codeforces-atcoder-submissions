@@ -7609,5 +7609,158 @@
       "*1700"
     ],
     "timestamp": "Aug/30/2026 21:05"
+  },
+  "CF389004715": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1829,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Love Story",
+    "problem_url": "https://codeforces.com/contest/1829/problem/A",
+    "submission_id": "CF389004715",
+    "submission_url": "https://codeforces.com/contest/1829/submission/389004715",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Aug/31/2026 19:56"
+  },
+  "CF389005386": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1829,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Blank Space",
+    "problem_url": "https://codeforces.com/contest/1829/problem/B",
+    "submission_id": "CF389005386",
+    "submission_url": "https://codeforces.com/contest/1829/submission/389005386",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/31/2026 20:02"
+  },
+  "CF389005798": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1829,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Mr. Perfectly Fine",
+    "problem_url": "https://codeforces.com/contest/1829/problem/C",
+    "submission_id": "CF389005798",
+    "submission_url": "https://codeforces.com/contest/1829/submission/389005798",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/31/2026 20:06"
+  },
+  "CF389006021": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1829,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Gold Rush",
+    "problem_url": "https://codeforces.com/contest/1829/problem/D",
+    "submission_id": "CF389006021",
+    "submission_url": "https://codeforces.com/contest/1829/submission/389006021",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Aug/31/2026 20:08"
+  },
+  "CF389006186": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1829,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Lakes",
+    "problem_url": "https://codeforces.com/contest/1829/problem/E",
+    "submission_id": "CF389006186",
+    "submission_url": "https://codeforces.com/contest/1829/submission/389006186",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Aug/31/2026 20:10"
+  },
+  "CF389006546": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1829,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Forever Winter",
+    "problem_url": "https://codeforces.com/contest/1829/problem/F",
+    "submission_id": "CF389006546",
+    "submission_url": "https://codeforces.com/contest/1829/submission/389006546",
+    "tags": [
+      "dfs and similar",
+      "graphs",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Aug/31/2026 20:13"
+  },
+  "CF389006871": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1829,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Hits Different",
+    "problem_url": "https://codeforces.com/contest/1829/problem/G",
+    "submission_id": "CF389006871",
+    "submission_url": "https://codeforces.com/contest/1829/submission/389006871",
+    "tags": [
+      "data structures",
+      "dp",
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Aug/31/2026 20:16"
+  },
+  "CF389007038": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1829,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Don't Blame Me",
+    "problem_url": "https://codeforces.com/contest/1829/problem/H",
+    "submission_id": "CF389007038",
+    "submission_url": "https://codeforces.com/contest/1829/submission/389007038",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Aug/31/2026 20:18"
   }
 }
