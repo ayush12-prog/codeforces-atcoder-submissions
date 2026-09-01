@@ -7762,5 +7762,157 @@
       "*1700"
     ],
     "timestamp": "Aug/31/2026 20:18"
+  },
+  "CF389105227": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1807,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Plus or Minus",
+    "problem_url": "https://codeforces.com/contest/1807/problem/A",
+    "submission_id": "CF389105227",
+    "submission_url": "https://codeforces.com/contest/1807/submission/389105227",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/01/2026 20:18"
+  },
+  "CF389105350": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1807,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Grab the Candies",
+    "problem_url": "https://codeforces.com/contest/1807/problem/B",
+    "submission_id": "CF389105350",
+    "submission_url": "https://codeforces.com/contest/1807/submission/389105350",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Sep/01/2026 20:19"
+  },
+  "CF389105491": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1807,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Find and Replace",
+    "problem_url": "https://codeforces.com/contest/1807/problem/C",
+    "submission_id": "CF389105491",
+    "submission_url": "https://codeforces.com/contest/1807/submission/389105491",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/01/2026 20:21"
+  },
+  "CF389105590": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1807,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Odd Queries",
+    "problem_url": "https://codeforces.com/contest/1807/problem/D",
+    "submission_id": "CF389105590",
+    "submission_url": "https://codeforces.com/contest/1807/submission/389105590",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Sep/01/2026 20:22"
+  },
+  "CF389105716": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1807,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Interview",
+    "problem_url": "https://codeforces.com/contest/1807/problem/E",
+    "submission_id": "CF389105716",
+    "submission_url": "https://codeforces.com/contest/1807/submission/389105716",
+    "tags": [
+      "binary search",
+      "implementation",
+      "interactive",
+      "*1300"
+    ],
+    "timestamp": "Sep/01/2026 20:23"
+  },
+  "CF389105907": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1807,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Bouncy Ball",
+    "problem_url": "https://codeforces.com/contest/1807/problem/F",
+    "submission_id": "CF389105907",
+    "submission_url": "https://codeforces.com/contest/1807/submission/389105907",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Sep/01/2026 20:25"
+  },
+  "CF389106077": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1807,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "Subsequence Addition (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1807/problem/G1",
+    "submission_id": "CF389106077",
+    "submission_url": "https://codeforces.com/contest/1807/submission/389106077",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Sep/01/2026 20:26"
+  },
+  "CF389106216": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1807,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G2",
+    "problem_name": "Subsequence Addition (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1807/problem/G2",
+    "submission_id": "CF389106216",
+    "submission_url": "https://codeforces.com/contest/1807/submission/389106216",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Sep/01/2026 20:28"
   }
 }
