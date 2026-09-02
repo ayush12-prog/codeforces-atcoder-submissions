@@ -7914,5 +7914,153 @@
       "*1100"
     ],
     "timestamp": "Sep/01/2026 20:28"
+  },
+  "CF389199436": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1791,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Codeforces Checking",
+    "problem_url": "https://codeforces.com/contest/1791/problem/A",
+    "submission_id": "CF389199436",
+    "submission_url": "https://codeforces.com/contest/1791/submission/389199436",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/02/2026 20:50"
+  },
+  "CF389199537": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1791,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Following Directions",
+    "problem_url": "https://codeforces.com/contest/1791/problem/B",
+    "submission_id": "CF389199537",
+    "submission_url": "https://codeforces.com/contest/1791/submission/389199537",
+    "tags": [
+      "geometry",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/02/2026 20:51"
+  },
+  "CF389199640": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1791,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Prepend and Append",
+    "problem_url": "https://codeforces.com/contest/1791/problem/C",
+    "submission_id": "CF389199640",
+    "submission_url": "https://codeforces.com/contest/1791/submission/389199640",
+    "tags": [
+      "implementation",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Sep/02/2026 20:52"
+  },
+  "CF389199796": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1791,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Distinct Split",
+    "problem_url": "https://codeforces.com/contest/1791/problem/D",
+    "submission_id": "CF389199796",
+    "submission_url": "https://codeforces.com/contest/1791/submission/389199796",
+    "tags": [
+      "brute force",
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Sep/02/2026 20:54"
+  },
+  "CF389199996": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1791,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Negatives and Positives",
+    "problem_url": "https://codeforces.com/contest/1791/problem/E",
+    "submission_id": "CF389199996",
+    "submission_url": "https://codeforces.com/contest/1791/submission/389199996",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Sep/02/2026 20:56"
+  },
+  "CF389200221": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1791,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Range Update Point Query",
+    "problem_url": "https://codeforces.com/contest/1791/problem/F",
+    "submission_id": "CF389200221",
+    "submission_url": "https://codeforces.com/contest/1791/submission/389200221",
+    "tags": [
+      "binary search",
+      "brute force",
+      "data structures",
+      "*1500"
+    ],
+    "timestamp": "Sep/02/2026 20:59"
+  },
+  "CF389200535": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1791,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G1",
+    "problem_name": "Teleporters (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/1791/problem/G1",
+    "submission_id": "CF389200535",
+    "submission_url": "https://codeforces.com/contest/1791/submission/389200535",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Sep/02/2026 21:02"
+  },
+  "CF389200740": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1791,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G2",
+    "problem_name": "Teleporters (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/1791/problem/G2",
+    "submission_id": "CF389200740",
+    "submission_url": "https://codeforces.com/contest/1791/submission/389200740",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Sep/02/2026 21:05"
   }
 }
