@@ -8062,5 +8062,61 @@
       "*1900"
     ],
     "timestamp": "Sep/02/2026 21:05"
+  },
+  "CF389375609": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1760,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Medium Number",
+    "problem_url": "https://codeforces.com/contest/1760/problem/A",
+    "submission_id": "CF389375609",
+    "submission_url": "https://codeforces.com/contest/1760/submission/389375609",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Sep/04/2026 21:20"
+  },
+  "CF389375811": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1760,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Atilla's Favorite Problem",
+    "problem_url": "https://codeforces.com/contest/1760/problem/B",
+    "submission_id": "CF389375811",
+    "submission_url": "https://codeforces.com/contest/1760/submission/389375811",
+    "tags": [
+      "greedy",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/04/2026 21:23"
+  },
+  "CF389376167": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1760,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Advantage",
+    "problem_url": "https://codeforces.com/contest/1760/problem/C",
+    "submission_id": "CF389376167",
+    "submission_url": "https://codeforces.com/contest/1760/submission/389376167",
+    "tags": [
+      "data structures",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Sep/04/2026 21:27"
   }
 }
