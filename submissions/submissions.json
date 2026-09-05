@@ -8118,5 +8118,136 @@
       "*800"
     ],
     "timestamp": "Sep/04/2026 21:27"
+  },
+  "CF389454698": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1742,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sum",
+    "problem_url": "https://codeforces.com/contest/1742/problem/A",
+    "submission_id": "CF389454698",
+    "submission_url": "https://codeforces.com/contest/1742/submission/389454698",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/05/2026 18:01"
+  },
+  "CF389456369": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1742,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Increasing",
+    "problem_url": "https://codeforces.com/contest/1742/problem/B",
+    "submission_id": "CF389456369",
+    "submission_url": "https://codeforces.com/contest/1742/submission/389456369",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Sep/05/2026 18:19"
+  },
+  "CF389456673": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1742,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Stripes",
+    "problem_url": "https://codeforces.com/contest/1742/problem/C",
+    "submission_id": "CF389456673",
+    "submission_url": "https://codeforces.com/contest/1742/submission/389456673",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Sep/05/2026 18:22"
+  },
+  "CF389456849": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1742,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Coprime",
+    "problem_url": "https://codeforces.com/contest/1742/problem/D",
+    "submission_id": "CF389456849",
+    "submission_url": "https://codeforces.com/contest/1742/submission/389456849",
+    "tags": [
+      "brute force",
+      "greedy",
+      "number theory",
+      "*1100"
+    ],
+    "timestamp": "Sep/05/2026 18:24"
+  },
+  "CF389457155": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1742,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Scuza",
+    "problem_url": "https://codeforces.com/contest/1742/problem/E",
+    "submission_id": "CF389457155",
+    "submission_url": "https://codeforces.com/contest/1742/submission/389457155",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Sep/05/2026 18:27"
+  },
+  "CF389457319": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1742,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Smaller",
+    "problem_url": "https://codeforces.com/contest/1742/problem/F",
+    "submission_id": "CF389457319",
+    "submission_url": "https://codeforces.com/contest/1742/submission/389457319",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Sep/05/2026 18:29"
+  },
+  "CF389457451": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1742,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Orray",
+    "problem_url": "https://codeforces.com/contest/1742/problem/G",
+    "submission_id": "CF389457451",
+    "submission_url": "https://codeforces.com/contest/1742/submission/389457451",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "greedy",
+      "math",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Sep/05/2026 18:31"
   }
 }
