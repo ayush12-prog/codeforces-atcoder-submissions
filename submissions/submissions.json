@@ -734,6 +734,51 @@
     ],
     "timestamp": "Aug/29/2026 19:07"
   },
+  "AC78963613": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "arc229",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/arc229/tasks/arc229_a",
+    "submission_id": "AC78963613",
+    "submission_url": "https://atcoder.jp/contests/arc229/submissions/78963613",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Sep/05/2026 18:17"
+  },
+  "AC78968138": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "arc229",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/arc229/tasks/arc229_b",
+    "submission_id": "AC78968138",
+    "submission_url": "https://atcoder.jp/contests/arc229/submissions/78968138",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Sep/05/2026 18:36"
+  },
+  "AC78973356": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "arc229",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/arc229/tasks/arc229_c",
+    "submission_id": "AC78973356",
+    "submission_url": "https://atcoder.jp/contests/arc229/submissions/78973356",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "Sep/05/2026 18:59"
+  },
   "CF379519447": {
     "__info_message": "Info: storing URL",
     "contest_id": 2237,
