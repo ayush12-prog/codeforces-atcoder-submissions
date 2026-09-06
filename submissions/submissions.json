@@ -8294,5 +8294,57 @@
       "*1500"
     ],
     "timestamp": "Sep/05/2026 18:31"
+  },
+  "CF389660636": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2259,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Moo Language School",
+    "problem_url": "https://codeforces.com/contest/2259/problem/A",
+    "submission_id": "CF389660636",
+    "submission_url": "https://codeforces.com/contest/2259/submission/389660636",
+    "tags": [
+      "brute force",
+      "greedy",
+      "two pointers"
+    ],
+    "timestamp": "Sep/06/2026 20:25"
+  },
+  "CF389660877": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2259,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Minus Two",
+    "problem_url": "https://codeforces.com/contest/2259/problem/B",
+    "submission_id": "CF389660877",
+    "submission_url": "https://codeforces.com/contest/2259/submission/389660877",
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Sep/06/2026 20:28"
+  },
+  "CF389661139": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2259,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "101",
+    "problem_url": "https://codeforces.com/contest/2259/problem/C",
+    "submission_id": "CF389661139",
+    "submission_url": "https://codeforces.com/contest/2259/submission/389661139",
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "timestamp": "Sep/06/2026 20:30"
   }
 }
