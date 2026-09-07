@@ -8346,5 +8346,22 @@
       "greedy"
     ],
     "timestamp": "Sep/06/2026 20:30"
+  },
+  "CF389752638": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2259,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "MEX Multiset",
+    "problem_url": "https://codeforces.com/contest/2259/problem/D",
+    "submission_id": "CF389752638",
+    "submission_url": "https://codeforces.com/contest/2259/submission/389752638",
+    "tags": [
+      "constructive algorithms",
+      "greedy"
+    ],
+    "timestamp": "Sep/07/2026 19:27"
   }
 }
