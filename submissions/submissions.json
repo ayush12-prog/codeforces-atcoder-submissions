@@ -8674,5 +8674,21 @@
       "*1500"
     ],
     "timestamp": "Sep/09/2026 20:43"
+  },
+  "CF390223723": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2260,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Monocarp's Contest",
+    "problem_url": "https://codeforces.com/contest/2260/problem/A",
+    "submission_id": "CF390223723",
+    "submission_url": "https://codeforces.com/contest/2260/submission/390223723",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Sep/10/2026 21:15"
   }
 }

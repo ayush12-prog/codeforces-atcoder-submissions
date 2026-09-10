@@ -32,45 +32,45 @@
 <tbody>
 <tr>
 <td align="center">1</td>
+<td><a href="https://codeforces.com/contest/2260/problem/A"><b>A</b> - Monocarp's Contest</a></td>
+<td align="center"><a href="https://codeforces.com/contest/2260/submission/390223723" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
+<td><code>implementation</code></td>
+<td align="center"><sub>Sep/10/2026 21:15</sub></td>
+</tr>
+<tr>
+<td align="center">2</td>
 <td><a href="https://codeforces.com/contest/2259/problem/E"><b>E</b> - Treasure Map Destruction (Constructive Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2259/submission/390102998" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
 <td><code>2-sat</code> <code>constructive algorithms</code> <code>greedy</code> <code>*1500</code></td>
 <td align="center"><sub>Sep/09/2026 20:43</sub></td>
 </tr>
 <tr>
-<td align="center">2</td>
+<td align="center">3</td>
 <td><a href="https://codeforces.com/contest/2260/problem/E"><b>E</b> - Cyclic Balance</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2260/submission/389942122" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
 <td><code>constructive algorithms</code></td>
 <td align="center"><sub>Sep/08/2026 22:12</sub></td>
 </tr>
 <tr>
-<td align="center">3</td>
+<td align="center">4</td>
 <td><a href="https://codeforces.com/contest/2260/problem/D"><b>D</b> - Signs of Prefix Sums</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2260/submission/389925434" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
 <td><code>brute force</code> <code>dfs and similar</code></td>
 <td align="center"><sub>Sep/08/2026 21:37</sub></td>
 </tr>
 <tr>
-<td align="center">4</td>
+<td align="center">5</td>
 <td><a href="https://codeforces.com/contest/2260/problem/C"><b>C</b> - Maximize XOR, Minimize Operations</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2260/submission/389910530" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
 <td><code>bitmasks</code> <code>greedy</code></td>
 <td align="center"><sub>Sep/08/2026 21:11</sub></td>
 </tr>
 <tr>
-<td align="center">5</td>
+<td align="center">6</td>
 <td><a href="https://codeforces.com/contest/2260/problem/B"><b>B</b> - Monocarp and Projects</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2260/submission/389901592" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
 <td><code>math</code></td>
 <td align="center"><sub>Sep/08/2026 20:57</sub></td>
-</tr>
-<tr>
-<td align="center">6</td>
-<td><a href="https://codeforces.com/contest/2260/problem/A"><b>A</b> - Monocarp's Contest</a></td>
-<td align="center"><a href="https://codeforces.com/contest/2260/submission/389890924" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>implementation</code></td>
-<td align="center"><sub>Sep/08/2026 20:43</sub></td>
 </tr>
 <tr>
 <td align="center">7</td>
@@ -2958,6 +2958,6 @@
 
 <div align="center">
 
-*Last Updated: September 10, 2026 at 01:37 BDT (UTC+6)*
+*Last Updated: September 11, 2026 at 01:29 BDT (UTC+6)*
 
 </div>
