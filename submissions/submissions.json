@@ -8690,5 +8690,272 @@
       "implementation"
     ],
     "timestamp": "Sep/10/2026 21:15"
+  },
+  "CF390294057": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2260,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Monocarp and Projects",
+    "problem_url": "https://codeforces.com/contest/2260/problem/B",
+    "submission_id": "CF390294057",
+    "submission_url": "https://codeforces.com/contest/2260/submission/390294057",
+    "tags": [
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Sep/11/2026 16:08"
+  },
+  "CF390294265": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2260,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Maximize XOR, Minimize Operations",
+    "problem_url": "https://codeforces.com/contest/2260/problem/C",
+    "submission_id": "CF390294265",
+    "submission_url": "https://codeforces.com/contest/2260/submission/390294265",
+    "tags": [
+      "bitmasks",
+      "greedy"
+    ],
+    "timestamp": "Sep/11/2026 16:10"
+  },
+  "CF390294742": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2260,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Signs of Prefix Sums",
+    "problem_url": "https://codeforces.com/contest/2260/problem/D",
+    "submission_id": "CF390294742",
+    "submission_url": "https://codeforces.com/contest/2260/submission/390294742",
+    "tags": [
+      "binary search",
+      "brute force",
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "implementation"
+    ],
+    "timestamp": "Sep/11/2026 16:15"
+  },
+  "CF390295306": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2260,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Cyclic Balance",
+    "problem_url": "https://codeforces.com/contest/2260/problem/E",
+    "submission_id": "CF390295306",
+    "submission_url": "https://codeforces.com/contest/2260/submission/390295306",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "dp",
+      "math"
+    ],
+    "timestamp": "Sep/11/2026 16:22"
+  },
+  "CF390295628": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2259,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Binary Bubble Sort Inversions",
+    "problem_url": "https://codeforces.com/contest/2259/problem/F",
+    "submission_id": "CF390295628",
+    "submission_url": "https://codeforces.com/contest/2259/submission/390295628",
+    "tags": [
+      "data structures",
+      "math",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Sep/11/2026 16:26"
+  },
+  "CF390295824": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2259,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Index Removal",
+    "problem_url": "https://codeforces.com/contest/2259/problem/G",
+    "submission_id": "CF390295824",
+    "submission_url": "https://codeforces.com/contest/2259/submission/390295824",
+    "tags": [
+      "binary search",
+      "data structures",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Sep/11/2026 16:28"
+  },
+  "CF390296338": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2259,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Treasure Map Destruction (Counting Version)",
+    "problem_url": "https://codeforces.com/contest/2259/problem/H",
+    "submission_id": "CF390296338",
+    "submission_url": "https://codeforces.com/contest/2259/submission/390296338",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "dsu",
+      "graphs",
+      "math",
+      "*2200"
+    ],
+    "timestamp": "Sep/11/2026 16:33"
+  },
+  "CF390296601": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1703,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "YES or YES?",
+    "problem_url": "https://codeforces.com/contest/1703/problem/A",
+    "submission_id": "CF390296601",
+    "submission_url": "https://codeforces.com/contest/1703/submission/390296601",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/11/2026 16:37"
+  },
+  "CF390296760": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1703,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "ICPC Balloons",
+    "problem_url": "https://codeforces.com/contest/1703/problem/B",
+    "submission_id": "CF390296760",
+    "submission_url": "https://codeforces.com/contest/1703/submission/390296760",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/11/2026 16:39"
+  },
+  "CF390297010": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1703,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cypher",
+    "problem_url": "https://codeforces.com/contest/1703/problem/C",
+    "submission_id": "CF390297010",
+    "submission_url": "https://codeforces.com/contest/1703/submission/390297010",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/11/2026 16:41"
+  },
+  "CF390297158": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1703,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Double Strings",
+    "problem_url": "https://codeforces.com/contest/1703/problem/D",
+    "submission_id": "CF390297158",
+    "submission_url": "https://codeforces.com/contest/1703/submission/390297158",
+    "tags": [
+      "brute force",
+      "data structures",
+      "strings",
+      "*1100"
+    ],
+    "timestamp": "Sep/11/2026 16:43"
+  },
+  "CF390297324": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1703,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Mirror Grid",
+    "problem_url": "https://codeforces.com/contest/1703/problem/E",
+    "submission_id": "CF390297324",
+    "submission_url": "https://codeforces.com/contest/1703/submission/390297324",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Sep/11/2026 16:45"
+  },
+  "CF390297503": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1703,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Yet Another Problem About Pairs Satisfying an Inequality",
+    "problem_url": "https://codeforces.com/contest/1703/problem/F",
+    "submission_id": "CF390297503",
+    "submission_url": "https://codeforces.com/contest/1703/submission/390297503",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Sep/11/2026 16:47"
+  },
+  "CF390297699": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 1703,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Good Key, Bad Key",
+    "problem_url": "https://codeforces.com/contest/1703/problem/G",
+    "submission_id": "CF390297699",
+    "submission_url": "https://codeforces.com/contest/1703/submission/390297699",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Sep/11/2026 16:49"
   }
 }
