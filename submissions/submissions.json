@@ -8692,7 +8692,7 @@
     "timestamp": "Sep/10/2026 21:15"
   },
   "CF390294057": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2260,
     "language": "Kotlin 2.2",
     "path": null,
@@ -8703,6 +8703,7 @@
     "submission_id": "CF390294057",
     "submission_url": "https://codeforces.com/contest/2260/submission/390294057",
     "tags": [
+      "brute force",
       "math",
       "number theory"
     ],
@@ -8726,7 +8727,7 @@
     "timestamp": "Sep/11/2026 16:10"
   },
   "CF390294742": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2260,
     "language": "Kotlin 2.2",
     "path": null,
@@ -8737,7 +8738,6 @@
     "submission_id": "CF390294742",
     "submission_url": "https://codeforces.com/contest/2260/submission/390294742",
     "tags": [
-      "binary search",
       "brute force",
       "constructive algorithms",
       "dfs and similar",
@@ -8957,5 +8957,81 @@
       "*1600"
     ],
     "timestamp": "Sep/11/2026 16:49"
+  },
+  "CF390426731": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2263,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Min Max Game",
+    "problem_url": "https://codeforces.com/contest/2263/problem/A",
+    "submission_id": "CF390426731",
+    "submission_url": "https://codeforces.com/contest/2263/submission/390426731",
+    "tags": [],
+    "timestamp": "Sep/12/2026 20:42"
+  },
+  "CF390435060": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2263,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Min Matrices",
+    "problem_url": "https://codeforces.com/contest/2263/problem/B",
+    "submission_id": "CF390435060",
+    "submission_url": "https://codeforces.com/contest/2263/submission/390435060",
+    "tags": [
+      "constructive algorithms"
+    ],
+    "timestamp": "Sep/12/2026 20:54"
+  },
+  "CF390444402": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2263,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Floor of MEX (Easy Version)",
+    "problem_url": "https://codeforces.com/contest/2263/problem/C1",
+    "submission_id": "CF390444402",
+    "submission_url": "https://codeforces.com/contest/2263/submission/390444402",
+    "tags": [],
+    "timestamp": "Sep/12/2026 21:10"
+  },
+  "CF390455230": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2263,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "C2",
+    "problem_name": "Floor of MEX (Hard Version)",
+    "problem_url": "https://codeforces.com/contest/2263/problem/C2",
+    "submission_id": "CF390455230",
+    "submission_url": "https://codeforces.com/contest/2263/submission/390455230",
+    "tags": [
+      "dp"
+    ],
+    "timestamp": "Sep/12/2026 21:33"
+  },
+  "CF390466190": {
+    "__info_message": "Info: storing URL",
+    "contest_id": 2263,
+    "language": "Kotlin 2.2",
+    "path": null,
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Culling Game",
+    "problem_url": "https://codeforces.com/contest/2263/problem/D",
+    "submission_id": "CF390466190",
+    "submission_url": "https://codeforces.com/contest/2263/submission/390466190",
+    "tags": [
+      "data structures"
+    ],
+    "timestamp": "Sep/12/2026 22:04"
   }
 }
