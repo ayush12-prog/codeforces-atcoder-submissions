@@ -111,7 +111,7 @@
 <td align="center">12</td>
 <td><a href="https://codeforces.com/contest/2263/problem/D"><b>D</b> - Culling Game</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2263/submission/390466190" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>data structures</code> <code>dp</code> <code>trees</code></td>
+<td><code>data structures</code> <code>dp</code> <code>dsu</code> <code>trees</code></td>
 <td align="center"><sub>Sep/12/2026 22:04</sub></td>
 </tr>
 <tr>
@@ -3140,6 +3140,6 @@
 
 <div align="center">
 
-*Last Updated: September 14, 2026 at 01:14 BDT (UTC+6)*
+*Last Updated: September 15, 2026 at 02:46 BDT (UTC+6)*
 
 </div>
