@@ -118,7 +118,7 @@
 <td align="center">13</td>
 <td><a href="https://codeforces.com/contest/2263/problem/C2"><b>C2</b> - Floor of MEX (Hard Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2263/submission/390455230" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>dp</code> <code>two pointers</code></td>
+<td><code>dp</code> <code>games</code> <code>two pointers</code></td>
 <td align="center"><sub>Sep/12/2026 21:33</sub></td>
 </tr>
 <tr>
@@ -3140,6 +3140,6 @@
 
 <div align="center">
 
-*Last Updated: September 15, 2026 at 02:46 BDT (UTC+6)*
+*Last Updated: September 16, 2026 at 02:03 BDT (UTC+6)*
 
 </div>
