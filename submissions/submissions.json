@@ -8751,7 +8751,7 @@
     "timestamp": "Sep/09/2026 20:43"
   },
   "CF390223723": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2260,
     "language": "Kotlin 2.2",
     "path": null,
@@ -8762,7 +8762,8 @@
     "submission_id": "CF390223723",
     "submission_url": "https://codeforces.com/contest/2260/submission/390223723",
     "tags": [
-      "implementation"
+      "implementation",
+      "*800"
     ],
     "timestamp": "Sep/10/2026 21:15"
   },
@@ -8780,12 +8781,13 @@
     "tags": [
       "brute force",
       "math",
-      "number theory"
+      "number theory",
+      "*900"
     ],
     "timestamp": "Sep/11/2026 16:08"
   },
   "CF390294265": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2260,
     "language": "Kotlin 2.2",
     "path": null,
@@ -8797,7 +8799,8 @@
     "submission_url": "https://codeforces.com/contest/2260/submission/390294265",
     "tags": [
       "bitmasks",
-      "greedy"
+      "greedy",
+      "*1300"
     ],
     "timestamp": "Sep/11/2026 16:10"
   },
@@ -8817,12 +8820,13 @@
       "constructive algorithms",
       "dfs and similar",
       "dp",
-      "implementation"
+      "implementation",
+      "*1700"
     ],
     "timestamp": "Sep/11/2026 16:15"
   },
   "CF390295306": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2260,
     "language": "Kotlin 2.2",
     "path": null,
@@ -8836,7 +8840,8 @@
       "binary search",
       "constructive algorithms",
       "dp",
-      "math"
+      "math",
+      "*2000"
     ],
     "timestamp": "Sep/11/2026 16:22"
   },

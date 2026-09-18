@@ -216,35 +216,35 @@
 <td align="center">27</td>
 <td><a href="https://codeforces.com/contest/2260/problem/E"><b>E</b> - Cyclic Balance</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2260/submission/390295306" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>binary search</code> <code>constructive algorithms</code> <code>dp</code> <code>math</code></td>
+<td><code>binary search</code> <code>constructive algorithms</code> <code>dp</code> <code>math</code> <code>*2000</code></td>
 <td align="center"><sub>Sep/11/2026 16:22</sub></td>
 </tr>
 <tr>
 <td align="center">28</td>
 <td><a href="https://codeforces.com/contest/2260/problem/D"><b>D</b> - Signs of Prefix Sums</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2260/submission/390294742" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>brute force</code> <code>constructive algorithms</code> <code>dfs and similar</code> <code>dp</code> <code>implementation</code></td>
+<td><code>brute force</code> <code>constructive algorithms</code> <code>dfs and similar</code> <code>dp</code> <code>implementation</code> <code>*1700</code></td>
 <td align="center"><sub>Sep/11/2026 16:15</sub></td>
 </tr>
 <tr>
 <td align="center">29</td>
 <td><a href="https://codeforces.com/contest/2260/problem/C"><b>C</b> - Maximize XOR, Minimize Operations</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2260/submission/390294265" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>bitmasks</code> <code>greedy</code></td>
+<td><code>bitmasks</code> <code>greedy</code> <code>*1300</code></td>
 <td align="center"><sub>Sep/11/2026 16:10</sub></td>
 </tr>
 <tr>
 <td align="center">30</td>
 <td><a href="https://codeforces.com/contest/2260/problem/B"><b>B</b> - Monocarp and Projects</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2260/submission/390294057" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>brute force</code> <code>math</code> <code>number theory</code></td>
+<td><code>brute force</code> <code>math</code> <code>number theory</code> <code>*900</code></td>
 <td align="center"><sub>Sep/11/2026 16:08</sub></td>
 </tr>
 <tr>
 <td align="center">31</td>
 <td><a href="https://codeforces.com/contest/2260/problem/A"><b>A</b> - Monocarp's Contest</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2260/submission/390223723" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>implementation</code></td>
+<td><code>implementation</code> <code>*800</code></td>
 <td align="center"><sub>Sep/10/2026 21:15</sub></td>
 </tr>
 <tr>
@@ -3140,6 +3140,6 @@
 
 <div align="center">
 
-*Last Updated: September 16, 2026 at 02:03 BDT (UTC+6)*
+*Last Updated: September 19, 2026 at 01:28 BDT (UTC+6)*
 
 </div>
