@@ -111,35 +111,35 @@
 <td align="center">12</td>
 <td><a href="https://codeforces.com/contest/2263/problem/D"><b>D</b> - Culling Game</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2263/submission/390466190" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>data structures</code> <code>dp</code> <code>dsu</code> <code>trees</code></td>
+<td><code>data structures</code> <code>dp</code> <code>dsu</code> <code>trees</code> <code>*2000</code></td>
 <td align="center"><sub>Sep/12/2026 22:04</sub></td>
 </tr>
 <tr>
 <td align="center">13</td>
 <td><a href="https://codeforces.com/contest/2263/problem/C2"><b>C2</b> - Floor of MEX (Hard Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2263/submission/390455230" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>dp</code> <code>games</code> <code>two pointers</code></td>
+<td><code>dp</code> <code>games</code> <code>two pointers</code> <code>*1800</code></td>
 <td align="center"><sub>Sep/12/2026 21:33</sub></td>
 </tr>
 <tr>
 <td align="center">14</td>
 <td><a href="https://codeforces.com/contest/2263/problem/C1"><b>C1</b> - Floor of MEX (Easy Version)</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2263/submission/390444402" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>constructive algorithms</code> <code>greedy</code></td>
+<td><code>constructive algorithms</code> <code>greedy</code> <code>*1200</code></td>
 <td align="center"><sub>Sep/12/2026 21:10</sub></td>
 </tr>
 <tr>
 <td align="center">15</td>
 <td><a href="https://codeforces.com/contest/2263/problem/B"><b>B</b> - Min Matrices</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2263/submission/390435060" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>constructive algorithms</code></td>
+<td><code>constructive algorithms</code> <code>*900</code></td>
 <td align="center"><sub>Sep/12/2026 20:54</sub></td>
 </tr>
 <tr>
 <td align="center">16</td>
 <td><a href="https://codeforces.com/contest/2263/problem/A"><b>A</b> - Min Max Game</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2263/submission/390426731" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td>-</td>
+<td><code>games</code> <code>*800</code></td>
 <td align="center"><sub>Sep/12/2026 20:42</sub></td>
 </tr>
 <tr>
@@ -3140,6 +3140,6 @@
 
 <div align="center">
 
-*Last Updated: September 19, 2026 at 01:28 BDT (UTC+6)*
+*Last Updated: September 20, 2026 at 01:13 BDT (UTC+6)*
 
 </div>

@@ -9039,7 +9039,7 @@
     "timestamp": "Sep/11/2026 16:49"
   },
   "CF390426731": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2263,
     "language": "Kotlin 2.2",
     "path": null,
@@ -9049,11 +9049,14 @@
     "problem_url": "https://codeforces.com/contest/2263/problem/A",
     "submission_id": "CF390426731",
     "submission_url": "https://codeforces.com/contest/2263/submission/390426731",
-    "tags": [],
+    "tags": [
+      "games",
+      "*800"
+    ],
     "timestamp": "Sep/12/2026 20:42"
   },
   "CF390435060": {
-    "__info_message": "Info: storing URL",
+    "__info_message": "Info: Updating Tags",
     "contest_id": 2263,
     "language": "Kotlin 2.2",
     "path": null,
@@ -9064,7 +9067,8 @@
     "submission_id": "CF390435060",
     "submission_url": "https://codeforces.com/contest/2263/submission/390435060",
     "tags": [
-      "constructive algorithms"
+      "constructive algorithms",
+      "*900"
     ],
     "timestamp": "Sep/12/2026 20:54"
   },
@@ -9081,7 +9085,8 @@
     "submission_url": "https://codeforces.com/contest/2263/submission/390444402",
     "tags": [
       "constructive algorithms",
-      "greedy"
+      "greedy",
+      "*1200"
     ],
     "timestamp": "Sep/12/2026 21:10"
   },
@@ -9099,7 +9104,8 @@
     "tags": [
       "dp",
       "games",
-      "two pointers"
+      "two pointers",
+      "*1800"
     ],
     "timestamp": "Sep/12/2026 21:33"
   },
@@ -9118,7 +9124,8 @@
       "data structures",
       "dp",
       "dsu",
-      "trees"
+      "trees",
+      "*2000"
     ],
     "timestamp": "Sep/12/2026 22:04"
   },
