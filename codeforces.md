@@ -972,14 +972,14 @@
 <td align="center">135</td>
 <td><a href="https://codeforces.com/contest/2237/problem/E"><b>E</b> - Permutation Commutation</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2237/submission/388143224" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>data structures</code> <code>graphs</code> <code>greedy</code> <code>*2000</code></td>
+<td><code>data structures</code> <code>graphs</code> <code>greedy</code> <code>*2100</code></td>
 <td align="center"><sub>Aug/23/2026 19:27</sub></td>
 </tr>
 <tr>
 <td align="center">136</td>
 <td><a href="https://codeforces.com/contest/2237/problem/D"><b>D</b> - Fullmetal Bitchemist</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2237/submission/388142864" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>constructive algorithms</code> <code>greedy</code> <code>math</code> <code>*1500</code></td>
+<td><code>constructive algorithms</code> <code>greedy</code> <code>math</code> <code>*1600</code></td>
 <td align="center"><sub>Aug/23/2026 19:23</sub></td>
 </tr>
 <tr>
@@ -1112,7 +1112,7 @@
 <td align="center">155</td>
 <td><a href="https://codeforces.com/contest/2248/problem/E"><b>E</b> - Excuse for Breaks</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2248/submission/388001171" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>binary search</code> <code>brute force</code> <code>greedy</code> <code>math</code> <code>two pointers</code> <code>*1900</code></td>
+<td><code>binary search</code> <code>brute force</code> <code>greedy</code> <code>math</code> <code>two pointers</code> <code>*2000</code></td>
 <td align="center"><sub>Aug/22/2026 18:53</sub></td>
 </tr>
 <tr>
@@ -3140,6 +3140,6 @@
 
 <div align="center">
 
-*Last Updated: September 20, 2026 at 01:13 BDT (UTC+6)*
+*Last Updated: September 25, 2026 at 02:18 BDT (UTC+6)*
 
 </div>
