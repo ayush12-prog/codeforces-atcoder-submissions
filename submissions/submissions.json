@@ -929,6 +929,51 @@
     ],
     "timestamp": "Sep/19/2026 19:17"
   },
+  "AC79514113": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc477",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc477/tasks/abc477_a",
+    "submission_id": "AC79514113",
+    "submission_url": "https://atcoder.jp/contests/abc477/submissions/79514113",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Sep/26/2026 18:08"
+  },
+  "AC79522967": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc477",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc477/tasks/abc477_b",
+    "submission_id": "AC79522967",
+    "submission_url": "https://atcoder.jp/contests/abc477/submissions/79522967",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Sep/26/2026 18:19"
+  },
+  "AC79533648": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc477",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc477/tasks/abc477_c",
+    "submission_id": "AC79533648",
+    "submission_url": "https://atcoder.jp/contests/abc477/submissions/79533648",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Sep/26/2026 18:36"
+  },
   "CF379519447": {
     "__info_message": "Info: storing URL",
     "contest_id": 2237,
