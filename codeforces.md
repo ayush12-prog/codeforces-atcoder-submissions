@@ -1245,7 +1245,7 @@
 <td align="center">174</td>
 <td><a href="https://codeforces.com/contest/2257/problem/E"><b>E</b> - Busy Beaver</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2257/submission/387450234" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>brute force</code> <code>data structures</code> <code>divide and conquer</code> <code>dp</code> <code>greedy</code> <code>implementation</code> <code>sortings</code> <code>*2000</code></td>
+<td><code>brute force</code> <code>data structures</code> <code>divide and conquer</code> <code>dp</code> <code>greedy</code> <code>implementation</code> <code>sortings</code> <code>*2100</code></td>
 <td align="center"><sub>Aug/17/2026 21:57</sub></td>
 </tr>
 <tr>
@@ -3065,14 +3065,14 @@
 <td align="center">434</td>
 <td><a href="https://codeforces.com/contest/2239/problem/B"><b>B</b> - Decidophobia</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2239/submission/380700195" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>greedy</code> <code>math</code> <code>sortings</code> <code>two pointers</code> <code>*1500</code></td>
+<td><code>greedy</code> <code>math</code> <code>sortings</code> <code>two pointers</code> <code>*1600</code></td>
 <td align="center"><sub>Jun/30/2026 19:34</sub></td>
 </tr>
 <tr>
 <td align="center">435</td>
 <td><a href="https://codeforces.com/contest/2238/problem/E"><b>E</b> - Cake Trial</a></td>
 <td align="center"><a href="https://codeforces.com/contest/2238/submission/380623210" title="Kotlin 2.2"><code>Kotlin 2.2</code></a></td>
-<td><code>dp</code> <code>greedy</code> <code>*2000</code></td>
+<td><code>dp</code> <code>greedy</code> <code>*2100</code></td>
 <td align="center"><sub>Jun/29/2026 23:14</sub></td>
 </tr>
 <tr>
@@ -3140,6 +3140,6 @@
 
 <div align="center">
 
-*Last Updated: September 25, 2026 at 02:18 BDT (UTC+6)*
+*Last Updated: October 01, 2026 at 03:18 BDT (UTC+6)*
 
 </div>
