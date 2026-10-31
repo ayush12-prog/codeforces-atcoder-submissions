@@ -1154,6 +1154,66 @@
     ],
     "timestamp": "Oct/24/2026 19:10"
   },
+  "AC80502263": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc482",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc482/tasks/abc482_a",
+    "submission_id": "AC80502263",
+    "submission_url": "https://atcoder.jp/contests/abc482/submissions/80502263",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Oct/31/2026 18:08"
+  },
+  "AC80508155": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc482",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc482/tasks/abc482_b",
+    "submission_id": "AC80508155",
+    "submission_url": "https://atcoder.jp/contests/abc482/submissions/80508155",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Oct/31/2026 18:21"
+  },
+  "AC80513178": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc482",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc482/tasks/abc482_c",
+    "submission_id": "AC80513178",
+    "submission_url": "https://atcoder.jp/contests/abc482/submissions/80513178",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Oct/31/2026 18:36"
+  },
+  "AC80520187": {
+    "__info_message": "Info: storing URL",
+    "contest_id": "abc482",
+    "language": "Kotlin (Kotlin/JVM 2.2.10)",
+    "path": null,
+    "platform": "AtCoder",
+    "problem_url": "https://atcoder.jp/contests/abc482/tasks/abc482_d",
+    "submission_id": "AC80520187",
+    "submission_url": "https://atcoder.jp/contests/abc482/submissions/80520187",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Oct/31/2026 19:01"
+  },
   "CF379519447": {
     "__info_message": "Info: storing URL",
     "contest_id": 2237,
